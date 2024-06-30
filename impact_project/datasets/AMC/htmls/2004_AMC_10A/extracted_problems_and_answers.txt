@@ -1,0 +1,52 @@
+0: ['You and five friends need to raise $1500$ dollars in donations for a charity, dividing the fundraising equally.  How many dollars will each of you need to raise?', 'A']
+
+1: ['For any three real numbers $a$, $b$, and $c$, with $b\neq c$, the operation $\otimes$ is defined by:
+$\otimes(a,b,c)=\frac{a}{b-c}.$
+What is $\otimes ( \otimes (1,2,3), \otimes (2,3,1), \otimes (3,1,2))$?', 'B']
+
+2: ['Alicia earns 20 dollars per hour, of which $1.45\%$ is deducted to pay local taxes.  How many cents per hour of Alicia's wages are used to pay local taxes?', 'E']
+
+3: ['What is the value of $x$ if $|x-1|=|x-2|$?', 'D']
+
+4: ['A set of three points is randomly chosen from the grid shown. Each three point set has the same probability of being chosen. What is the probability that the points lie on the same straight line?', 'C']
+
+5: ['Bertha has 6 daughters and no sons.  Some of her daughters have 6 daughters, and the rest have none.  Bertha has a total of 30 daughters and granddaughters, and no great-granddaughters.  How many of Bertha's daughters and grand-daughters have no daughters?', 'E']
+
+6: ['A grocer stacks oranges in a pyramid-like stack whose rectangular base is 5 oranges by 8 oranges.  Each orange above the first level rests in a pocket formed by four oranges below.  The stack is completed by a single row of oranges.  How many oranges are in the stack?', 'C']
+
+7: ['A game is played with tokens according to the following rule.  In each round, the player with the most tokens gives one token to each of the other players and also places one token in the discard pile.  The game ends when some player runs out of tokens.  Players $A$, $B$, and $C$ start with 15, 14, and 13 tokens, respectively.  How many rounds will there be in the game?', 'B']
+
+8: ['In the figure, $\angle EAB$ and $\angle ABC$ are right angles. $AB=4, BC=6, AE=8$, and $AC$ and $BE$ intersect at $D$. What is the difference between the areas of $\triangle ADE$ and $\triangle BDC$?', 'B']
+
+9: ['Coin $A$ is flipped three times and coin $B$ is flipped four times.  What is the probability that the number of heads obtained from flipping the two fair coins is the same?', 'D']
+
+10: ['A company sells peanut butter in cylindrical jars.  Marketing research suggests that using wider jars will increase sales.  If the diameter of the jars is increased by $25\%$ without altering the volume, by what percent must the height be decreased?', 'C']
+
+11: ['Henry's Hamburger Heaven offers its hamburgers with the following condiments: ketchup, mustard, mayonnaise, tomato, lettuce, pickles, cheese, and onions.  A customer can choose one, two, or three meat patties, and any collection of condiments.  How many different kinds of hamburgers can be ordered?', 'C']
+
+12: ['At a party, each man danced with exactly three women and each woman danced with exactly two men.  Twelve men attended the party.  How many women attended the party?', 'D']
+
+13: ['The average value of all the pennies, nickels, dimes, and quarters in Paula's purse is $20$ cents.  If she had one more quarter, the average would be $21$ cents.  How many dimes does she have in her purse?', 'A']
+
+14: ['Given that $-4\leq x\leq-2$ and $2\leq y\leq4$, what is the largest possible value of $\frac{x+y}{x}$?', 'D']
+
+15: ['The $5\times 5$ grid shown contains a collection of squares with sizes from $1\times 1$ to $5\times 5$. How many of these squares contain the black center square?', 'D']
+
+16: ['Brenda and Sally run in opposite directions on a circular track, starting at diametrically opposite points.  They first meet after Brenda has run 100 meters.  They next meet after Sally has run 150 meters past their first meeting point.  Each girl runs at a constant speed.  What is the length of the track in meters?', 'C']
+
+17: ['A sequence of three real numbers form an arithmetic progression with a first term of 9.  If 2 is added to the second term and 20 is added to the third term, the three resulting numbers form a geometric progression.  What is the smallest possible value for the third term of the geometric progression?', 'A']
+
+18: ['A white cylindrical silo has a diameter of 30 feet and a height of 80 feet. A red stripe with a horizontal width of 3 feet is painted on the silo, as shown, making two complete revolutions around it. What is the area of the stripe in square feet?', 'C']
+
+19: ['Points $E$ and $F$ are located on square $ABCD$ so that $\triangle BEF$ is equilateral. What is the ratio of the area of $\triangle DEF$ to that of $\triangle ABE$?', 'D']
+
+20: ['Two distinct lines pass through the center of three concentric circles of radii 3, 2, and 1. The area of the shaded region in the diagram is $\frac{8}{13}$ of the area of the unshaded region. What is the radian measure of the acute angle formed by the two lines? (Note: $\pi$ radians is $180$ degrees.)', 'B']
+
+21: ['Square $ABCD$ has side length $2$. A semicircle with diameter $\overline{AB}$ is constructed inside the square, and the tangent to the semicircle from $C$ intersects side $\overline{AD}$ at $E$. What is the length of $\overline{CE}$?', 'D']
+
+22: ['Circles $A, B$ and $C$ are externally tangent to each other, and internally tangent to circle $D$. Circles $B$ and $C$ are congruent. Circle $A$ has radius $1$ and passes through the center of $D$. What is the radius of circle $B$?', 'D']
+
+23: ['Let $f$ be a function with the following properties:', 'D']
+
+24: ['Three mutually tangent spheres of radius 1 rest on a horizontal plane. A sphere of radius 2 rests on them. What is the distance from the plane to the top of the larger sphere?', 'B']
+

@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 1,
+        "Setup": "Sandwiches at Joe's Fast Food cost $\\textdollar 3$ each and sodas cost $\\textdollar 2$ each. How many dollars will it cost to purchase 5 sandwiches and 8 sodas?",
+        "Options": "$\\mathrm{(A)}\\ 31\\qquad\\mathrm{(B)}\\ 32\\qquad\\mathrm{(C)}\\ 33\\qquad\\mathrm{(D)}\\ 34\\qquad\\mathrm{(E)}\\ 35$",
+        "Answer": "A"
+    },
+    {
+        "Index": 2,
+        "Setup": "Define $x\\otimes y=x^3-y$. What is $h\\otimes (h\\otimes h)$?",
+        "Options": "$\\mathrm{(A)}\\ -h\\qquad \\mathrm{(B)}\\ 0\\qquad \\mathrm{(C)}\\ h\\qquad \\mathrm{(D)}\\ 2h\\qquad\\mathrm{(E)}\\ h^3$",
+        "Answer": "C"
+    },
+    {
+        "Index": 3,
+        "Setup": "The ratio of Mary's age to Alice's age is $3:5$. Alice is $30$ years old. How many years old is Mary?",
+        "Options": "$\\mathrm{(A)}\\ 15\\qquad\\mathrm{(B)}\\ 18\\qquad\\mathrm{(C)}\\ 20\\qquad\\mathrm{(D)}\\ 24\\qquad\\mathrm{(E)}\\ 50$",
+        "Answer": "B"
+    },
+    {
+        "Index": 4,
+        "Setup": "A digital watch displays hours and minutes with AM and PM.  What is the largest possible sum of the digits in the display?",
+        "Options": "$\\mathrm{(A)}\\ 17\\qquad\\mathrm{(B)}\\ 19\\qquad\\mathrm{(C)}\\ 21\\qquad\\mathrm{(D)}\\ 22\\qquad\\mathrm{(E)}\\ 23$",
+        "Answer": "E"
+    },
+    {
+        "Index": 5,
+        "Setup": "Doug and Dave shared a pizza with 8 equally-sized slices.  Doug wanted a plain pizza, but Dave wanted anchovies on half of the pizza.  The cost of a plain pizza was 8 dollars, and there was an additional cost of 2 dollars for putting anchovies on one half.  Dave ate all of the slices of anchovy pizza and one plain slice.  Doug ate the remainder.  Each then paid for what he had eaten.  How many more dollars did Dave pay than Doug?",
+        "Options": "$\\mathrm{(A)}\\ 1\\qquad\\mathrm{(B)}\\ 2\\qquad\\mathrm{(C)}\\ 3\\qquad\\mathrm{(D)}\\ 4\\qquad\\mathrm{(E)}\\ 5$",
+        "Answer": "D"
+    },
+    {
+        "Index": 6,
+        "Setup": "What non-zero real value for $x$ satisfies $(7x)^{14}=(14x)^7$?",
+        "Options": "$\\mathrm{(A)}\\ \\frac17\\qquad\\mathrm{(B)}\\ \\frac27\\qquad\\mathrm{(C)}\\ 1\\qquad\\mathrm{(D)}\\ 7\\qquad\\mathrm{(E)}\\ 14$",
+        "Answer": "B"
+    },
+    {
+        "Index": 7,
+        "Setup": "[asy] unitsize(3mm); defaultpen(fontsize(10pt)+linewidth(.8pt)); dotfactor=4; draw((0,4)--(18,4)--(18,-4)--(0,-4)--cycle); draw((6,4)--(6,0)--(12,0)--(12,-4)); label(\"$A$\",(0,4),NW); label(\"$B$\",(18,4),NE); label(\"$C$\",(18,-4),SE); label(\"$D$\",(0,-4),SW); label(\"$y$\",(3,4),S); label(\"$y$\",(15,-4),N); label(\"$18$\",(9,4),N); label(\"$18$\",(9,-4),S); label(\"$8$\",(0,0),W); label(\"$8$\",(18,0),E); dot((0,4)); dot((18,4)); dot((18,-4)); dot((0,-4));[/asy]",
+        "Options": "The $8 \\times 18$ rectangle $ABCD$ is cut into two congruent hexagons, as shown, in such a way that the two hexagons can be repositioned without overlap to form a square.  What is $y$?",
+        "Answer": "A"
+    },
+    {
+        "Index": 8,
+        "Setup": "A parabola with equation $y=x^2+bx+c$ passes through the points $(2,3)$ and $(4,3)$.  What is $c$?",
+        "Options": "$\\mathrm{(A)}\\ 2\\qquad\\mathrm{(B)}\\ 5\\qquad\\mathrm{(C)}\\ 7\\qquad\\mathrm{(D)}\\ 10\\qquad\\mathrm{(E)}\\ 11$",
+        "Answer": "E"
+    },
+    {
+        "Index": 9,
+        "Setup": "How many sets of two or more consecutive positive integers have a sum of 15?",
+        "Options": "$\\mathrm{(A)}\\ 1\\qquad\\mathrm{(B)}\\ 2\\qquad\\mathrm{(C)}\\ 3\\qquad\\mathrm{(D)}\\ 4\\qquad\\mathrm{(E)}\\ 5$",
+        "Answer": "C"
+    },
+    {
+        "Index": 10,
+        "Setup": "For how many real values of $x$ is $\\sqrt{120-\\sqrt{x}}$ an integer?",
+        "Options": "$\\mathrm{(A)}\\ 3\\qquad\\mathrm{(B)}\\ 6\\qquad\\mathrm{(C)}\\ 9\\qquad\\mathrm{(D)}\\ 10\\qquad\\mathrm{(E)}\\ 11\\qquad$",
+        "Answer": "E"
+    },
+    {
+        "Index": 11,
+        "Setup": "Which of the following describes the graph of the equation $(x+y)^2=x^2+y^2$?",
+        "Options": "$\\mathrm{(A)}\\ \\text{the empty set}\\qquad\\mathrm{(B)}\\ \\text{one point}\\qquad\\mathrm{(C)}\\ \\text{two lines}\\qquad\\mathrm{(D)}\\ \\text{a circle}\\qquad\\mathrm{(E)}\\ \\text{the entire plane}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 12,
+        "Setup": "[asy] size(150); pathpen = linewidth(0.6); defaultpen(fontsize(10)); D((0,0)--(16,0)--(16,-16)--(0,-16)--cycle); D((16,-8)--(24,-8)); label('Dog', (24, -8), SE); MP('I', (8,-8), (0,0)); MP('8', (16,-4), W); MP('8', (16,-12),W); MP('8', (20,-8), N); label('Rope', (20,-8),S); D((0,-20)--(16,-20)--(16,-36)--(0,-36)--cycle); D((16,-24)--(24,-24)); MP(\"II\", (8,-28), (0,0)); MP('4', (16,-22), W); MP('8', (20,-24), N); label(\"Dog\",(24,-24),SE); label(\"Rope\", (20,-24), S); [/asy]",
+        "Options": "Rolly wishes to secure his dog with an 8-foot rope to a square shed that is 16 feet on each side.  His preliminary drawings are shown.",
+        "Answer": "C"
+    },
+    {
+        "Index": 13,
+        "Setup": "A player pays $\\textdollar 5$ to play a game. A die is rolled. If the number on the die is odd, the game is lost. If the number on the die is even, the die is rolled again. In this case the player wins if the second number matches the first and loses otherwise. How much should the player win if the game is fair? (In a fair game the probability of winning times the amount won is what the player should pay.)",
+        "Options": "$\\mathrm{(A)}\\ 12\\qquad\\mathrm{(B)}\\  30\\qquad\\mathrm{(C)}\\  50\\qquad\\mathrm{(D)}\\  60\\qquad\\mathrm{(E)}\\  100$",
+        "Answer": "D"
+    },
+    {
+        "Index": 14,
+        "Setup": "[asy] size(7cm); pathpen = linewidth(0.7); D(CR((0,0),10)); D(CR((0,0),9.5)); D(CR((0,-18.5),9.5)); D(CR((0,-18.5),9)); MP(\"$\\vdots$\",(0,-31),(0,0)); D(CR((0,-39),3)); D(CR((0,-39),2.5)); D(CR((0,-43.5),2.5)); D(CR((0,-43.5),2)); D(CR((0,-47),2)); D(CR((0,-47),1.5)); D(CR((0,-49.5),1.5)); D(CR((0,-49.5),1.0));  D((12,-10)--(12,10)); MP('20',(12,0),E); D((12,-51)--(12,-48)); MP('3',(12,-49.5),E);[/asy]",
+        "Options": "A number of linked rings, each 1 cm thick, are hanging on a peg. The top ring has an outside diameter of 20 cm. The outside diameter of each of the other rings is 1 cm less than that of the ring above it. The bottom ring has an outside diameter of 3 cm. What is the distance, in cm, from the top of the top ring to the bottom of the bottom ring?",
+        "Answer": "B"
+    },
+    {
+        "Index": 15,
+        "Setup": "Odell and Kershaw run for 30 minutes on a circular track. Odell runs clockwise at 250 m/min and uses the inner lane with a radius of 50 meters. Kershaw runs counterclockwise at 300 m/min and uses the outer lane with a radius of 60 meters, starting on the same radial line as Odell. How many times after the start do they pass each other?",
+        "Options": "$\\mathrm{(A)}\\ 29\\qquad\\mathrm{(B)}\\ 42\\qquad\\mathrm{(C)}\\ 45\\qquad\\mathrm{(D)}\\ 47\\qquad\\mathrm{(E)}\\ 50$",
+        "Answer": "D"
+    },
+    {
+        "Index": 16,
+        "Setup": "[asy] size(200); pathpen = linewidth(0.7); pointpen = black; real t=2^0.5; D((0,0)--(4*t,0)--(2*t,8)--cycle); D(CR((2*t,2),2)); D(CR((2*t,5),1)); D('B', (0,0),SW); D('C',(4*t,0), SE); D('A', (2*t, 8), N); D((2*t,2)--(2*t,4)); D((2*t,5)--(2*t,6)); MP('2', (2*t,3), W); MP('1',(2*t, 5.5), W);[/asy]",
+        "Options": "A circle of radius 1 is tangent to a circle of radius 2. The sides of $\\triangle ABC$ are tangent to the circles as shown, and the sides $\\overline{AB}$  and $\\overline{AC}$  are congruent. What is the area of $\\triangle ABC$?",
+        "Answer": "D"
+    },
+    {
+        "Index": 17,
+        "Setup": "In rectangle $ADEH$, points $B$ and $C$ trisect $\\overline{AD}$, and points $G$ and $F$ trisect $\\overline{HE}$. In addition, $AH=AC=2$, and $AD=3$. What is the area of quadrilateral $WXYZ$ shown in the figure?",
+        "Options": "[asy] size(7cm); pathpen = linewidth(0.7); pointpen = black; pointfontpen = fontsize(10); pair A,B,C,D,E,F,G,H,W,X,Y,Z; A=(0,2); B=(1,2); C=(2,2); D=(3,2); H=(0,0); G=(1,0); F=(2,0); E=(3,0); D('A',A, N); D('B',B,N); D('C',C,N); D('D',D,N); D('E',E,SE); D('F',F,SE); D('G',G,SW); D('H',H,SW); D(A--F); D(B--E); D(D--G); D(C--H); Z=IP(A--F, C--H); Y=IP(A--F, D--G); X=IP(B--E,D--G); W=IP(B--E,C--H); D('W',W,1.6*N); D('X',X,1.6*plain.E); D('Y',Y,1.6*S); D('Z',Z,1.6*plain.W); D(A--D--E--H--cycle); [/asy]",
+        "Answer": "A"
+    },
+    {
+        "Index": 18,
+        "Setup": "A license plate in a certain state consists of 4 digits, not necessarily distinct, and 2 letters, also not necessarily distinct. These six characters may appear in any order, except that the two letters must appear next to each other. How many distinct license plates are possible?",
+        "Options": "$\\mathrm{(A)}\\ 10^4\\times26^2\\qquad\\mathrm{(B)}\\ 10^3\\times26^3\\qquad\\mathrm{(C)}\\ 5\\times10^4\\times26^2\\qquad\\mathrm{(D)}\\ 10^2\\times26^4\\qquad\\mathrm{(E)}\\ 5\\times10^3\\times26^3$",
+        "Answer": "C"
+    },
+    {
+        "Index": 19,
+        "Setup": "How many non-similar triangles have angles whose degree measures are distinct positive integers in arithmetic progression?",
+        "Options": "$\\mathrm{(A)}\\ 0\\qquad\\mathrm{(B)}\\ 1\\qquad\\mathrm{(C)}\\ 59\\qquad\\mathrm{(D)}\\ 89\\qquad\\mathrm{(E)}\\ 178$",
+        "Answer": "C"
+    },
+    {
+        "Index": 20,
+        "Setup": "Six distinct positive integers are randomly chosen between 1 and 2006, inclusive. What is the probability that some pair of these integers has a difference that is a multiple of 5?",
+        "Options": "$\\mathrm{(A)}\\ \\frac{1}{2}\\qquad\\mathrm{(B)}\\ \\frac{3}{5}\\qquad\\mathrm{(C)}\\ \\frac{2}{3}\\qquad\\mathrm{(D)}\\ \\frac{4}{5}\\qquad\\mathrm{(E)}\\ 1$",
+        "Answer": "E"
+    },
+    {
+        "Index": 21,
+        "Setup": "How many four-digit positive integers have at least one digit that is a $2$ or a $3$?",
+        "Options": "$\\textbf{(A) } 2439\\qquad\\textbf{(B) } 4096\\qquad\\textbf{(C) } 4903\\qquad\\textbf{(D) } 4904\\qquad\\textbf{(E) } 5416$",
+        "Answer": "E"
+    },
+    {
+        "Index": 22,
+        "Setup": "Two farmers agree that pigs are worth $300 and that goats are worth $210. When one farmer owes the other money, he pays the debt in pigs or goats, with \"change\" received in the form of goats or pigs as necessary. (For example, a $390 debt could be paid with two pigs, with one goat received in change.) What is the amount of the smallest positive debt that can be resolved in this way?",
+        "Options": "$\\mathrm{(A)}\\ 5\\qquad\\mathrm{(B)}\\ 10\\qquad\\mathrm{(C)}\\ 30\\qquad\\mathrm{(D)}\\ 90\\qquad\\mathrm{(E)}\\ 210$",
+        "Answer": "C"
+    },
+    {
+        "Index": 23,
+        "Setup": "Circles with centers $A$ and $B$ have radii $3$ and $8$, respectively. A common internal tangent intersects the circles at $C$ and $D$, respectively. Lines $AB$ and $CD$ intersect at $E$, and $AE=5$. What is $CD$?",
+        "Options": "$\\mathrm{(A)}\\ 13\\qquad\\mathrm{(B)}\\ \\frac{44}{3}\\qquad\\mathrm{(C)}\\ \\sqrt{221}\\qquad\\mathrm{(D)}\\ \\sqrt{255}\\qquad\\mathrm{(E)}\\ \\frac{55}{3}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 24,
+        "Setup": "Centers of adjacent faces of a unit cube are joined to form a regular octahedron. What is the volume of this octahedron?",
+        "Options": "$\\mathrm{(A)}\\ \\frac{1}{8}\\qquad\\mathrm{(B)}\\ \\frac{1}{6}\\qquad\\mathrm{(C)}\\ \\frac{1}{4}\\qquad\\mathrm{(D)}\\ \\frac{1}{3}\\qquad\\mathrm{(E)}\\ \\frac{1}{2}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 25,
+        "Setup": "A bug starts at one vertex of a cube and moves along the edges of the cube according to the following rule. At each vertex the bug will choose to travel along one of the three edges emanating from that vertex. Each edge has equal probability of being chosen, and all choices are independent. What is the probability that after seven moves the bug will have visited every vertex exactly once?",
+        "Options": "$\\mathrm{(A)}\\ \\frac{1}{2187}\\qquad\\mathrm{(B)}\\ \\frac{1}{729}\\qquad\\mathrm{(C)}\\ \\frac{2}{243}\\qquad\\mathrm{(D)}\\ \\frac{1}{81}\\qquad\\mathrm{(E)}\\ \\frac{5}{243}$",
+        "Answer": "C"
+    }
+]

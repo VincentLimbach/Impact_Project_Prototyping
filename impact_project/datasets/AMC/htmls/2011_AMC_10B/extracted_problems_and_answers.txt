@@ -1,0 +1,50 @@
+0: ['What is \[\dfrac{2+4+6}{1+3+5} - \dfrac{1+3+5}{2+4+6}\]', 'C']
+
+1: ['Josanna's test scores to date are $90, 80, 70, 60,$ and $85$. Her goal is to raise her test average at least $3$ points with her next test. What is the minimum test score she would need to accomplish this goal?', 'E']
+
+2: ['At a store, when a length is reported as $x$ inches that means the length is at least $x - 0.5$ inches and at most $x + 0.5$ inches. Suppose the dimensions of a rectangular tile are reported as $2$ inches by $3$ inches. In square inches, what is the minimum area for the rectangle?', 'A']
+
+3: ['LeRoy and Bernardo went on a week-long trip together and agreed to share the costs equally. Over the week, each of them paid for various joint expenses such as gasoline and car rental. At the end of the trip, it turned out that LeRoy had paid $A$ dollars and Bernardo had paid $B$ dollars, where $A < B$. How many dollars must LeRoy give to Bernardo so that they share the costs equally?', 'C']
+
+4: ['In multiplying two positive integers $a$ and $b$, Ron reversed the digits of the two-digit number $a$. His erroneous product was $161$. What is the correct value of the product of $a$ and $b$?', 'E']
+
+5: ['On Halloween Casper ate $1/3$ of his candies and then gave $2$ candies to his brother. The next day he ate $1/3$ of his remaining candies and then gave $4$ candies to his sister. On the third day he ate his final $8$ candies. How many candies did Casper have at the beginning?', 'A']
+
+6: ['The sum of two angles of a triangle is $6/5$ of a right angle, and one of these two angles is $30^{\circ}$ larger than the other. What is the degree measure of the largest angle in the triangle?', 'B']
+
+7: ['At a certain beach if it is at least $80^{\circ} F$ and sunny, then the beach will be crowded. On June 10 the beach was not crowded. What can be concluded about the weather conditions on June 10?', 'B']
+
+8: ['The area of $\triangle$$EBD$ is one third of the area of $3-4-5$ $\triangle$$ABC$. Segment $DE$ is perpendicular to segment $AB$. What is $BD$?', 'D']
+
+9: ['Consider the set of numbers $\{1, 10, 10^2, 10^3, \ldots, 10^{10}\}$. The ratio of the largest element of the set to the sum of the other ten elements of the set is closest to which integer?', 'B']
+
+10: ['There are $52$ people in a room.  What is the largest value of $n$ such that the statement "At least $n$ people in this room have birthdays falling in the same month" is always true?', 'D']
+
+11: ['Keiko walks once around a track at exactly the same constant speed every day. The sides of the track are straight, and the ends are semicircles. The track has a width of $6$ meters, and it takes her $36$ seconds longer to walk around the outside edge of the track than around the inside edge. What is Keiko's speed in meters per second?', 'A']
+
+12: ['Two real numbers are selected independently at random from the interval $[-20, 10]$. What is the probability that the product of those numbers is greater than zero?', 'D']
+
+13: ['A rectangular parking lot has a diagonal of $25$ meters and an area of $168$ square meters. In meters, what is the perimeter of the parking lot?', 'C']
+
+14: ['Let $@$ denote the "averaged with" operation: $a @ b = (a+b)/2$. Which of the following distributive laws hold for all numbers $x, y,$ and $z$? \[\text{I. x @ (y + z) = (x @ y) + (x @ z)}\] \[\text{II. x + (y @ z) = (x + y) @ (x + z)}\] \[\text{III. x @ (y @ z) = (x @ y) @ (x @ z)}\]', 'E']
+
+15: ['A dart board is a regular octagon divided into regions as shown. Suppose that a dart thrown at the board is equally likely to land anywhere on the board. What is the probability that the dart lands within the center square?', 'A']
+
+16: ['In the given circle, the diameter $\overline{EB}$ is parallel to $\overline{DC}$, and $\overline{AB}$ is parallel to $\overline{ED}$. The angles $AEB$ and $ABE$ are in the ratio $4 : 5$. What is the degree measure of angle $BCD$?', 'C']
+
+17: ['Rectangle $ABCD$ has $AB = 6$ and $BC = 3$. Point $M$ is chosen on side $AB$ so that $\angle AMD = \angle CMD$. What is the degree measure of $\angle AMD$?', 'E']
+
+18: ['What is the product of all the roots of the equation \[\sqrt{5 | x | + 8} = \sqrt{x^2 - 16}.\]', 'A']
+
+19: ['Rhombus $ABCD$ has side length $2$ and $\angle B = 120^\circ$. Region $R$ consists of all points inside the rhombus that are closer to vertex $B$ than any of the other three vertices. What is the area of $R$?', 'C']
+
+20: ['Brian writes down four integers $w > x > y > z$ whose sum is $44$. The pairwise positive differences of these numbers are $1, 3, 4, 5, 6,$ and $9$. What is the sum of the possible values for $w$?', 'B']
+
+21: ['A pyramid has a square base with sides of length $1$ and has lateral faces that are equilateral triangles. A cube is placed within the pyramid so that one face is on the base of the pyramid and its opposite face has all its edges on the lateral faces of the pyramid. What is the volume of this cube?', 'A']
+
+22: ['What is the hundreds digit of $2011^{2011}$?', 'D']
+
+23: ['A lattice point in an $xy$-coordinate system is any point $(x, y)$ where both $x$ and $y$ are integers. The graph of $y = mx +2$ passes through no lattice point with $0 < x \le 100$ for all $m$ such that $1/2 < m < a$. What is the maximum possible value of $a$?', 'B']
+
+24: ['Let $T_1$ be a triangle with sides $2011, 2012,$ and $2013$. For $n \ge 1$, if $T_n = \triangle ABC$ and $D, E,$ and $F$ are the points of tangency of the incircle of $\triangle ABC$ to the sides $AB, BC$ and $AC,$ respectively, then $T_{n+1}$ is a triangle with side lengths $AD, BE,$ and $CF,$ if it exists. What is the perimeter of the last triangle in the sequence $( T_n )$?', 'D']
+

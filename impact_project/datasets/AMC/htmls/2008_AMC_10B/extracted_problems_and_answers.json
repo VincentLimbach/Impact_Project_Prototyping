@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 1,
+        "Setup": "A basketball player made $5$ baskets during a game. Each basket was worth either $2$ or $3$ points. How many different numbers could represent the total points scored by the player?",
+        "Options": "$\\mathrm{(A)}\\ 2\\qquad\\mathrm{(B)}\\ 3\\qquad\\mathrm{(C)}\\ 4\\qquad\\mathrm{(D)}\\ 5\\qquad\\mathrm{(E)}\\ 6$",
+        "Answer": "E"
+    },
+    {
+        "Index": 2,
+        "Setup": "A $4\\times 4$ block of calendar dates is shown. The order of the numbers in the second row is to be reversed. Then the order of the numbers in the fourth row is to be reversed. Finally, the numbers on each diagonal are to be added. What will be the positive difference between the two diagonal sums?",
+        "Options": "$\\begin{tabular}[t]{|c|c|c|c|} \\multicolumn{4}{c}{}\\\\\\hline 1&2&3&4\\\\\\hline 8&9&10&11\\\\\\hline 15&16&17&18\\\\\\hline 22&23&24&25\\\\\\hline \\end{tabular}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 3,
+        "Setup": "Assume that $x$ is a positive real number. Which is equivalent to $\\sqrt[3]{x\\sqrt{x}}$?",
+        "Options": "$\\mathrm{(A)}\\ x^{1/6}\\qquad\\mathrm{(B)}\\ x^{1/4}\\qquad\\mathrm{(C)}\\ x^{3/8}\\qquad\\mathrm{(D)}\\ x^{1/2}\\qquad\\mathrm{(E)}\\ x$",
+        "Answer": "D"
+    },
+    {
+        "Index": 4,
+        "Setup": "A semipro baseball league has teams with $21$ players each. League rules state that a player must be paid at least $\\textdollar 15,000$ and that the total of all players' salaries for each team cannot exceed $\\textdollar 700,000.$ What is the maximum possible salary, in dollars, for a single player?",
+        "Options": "$\\mathrm{(A)}\\ 270,000\\qquad\\mathrm{(B)}\\ 385,000\\qquad\\mathrm{(C)}\\ 400,000\\qquad\\mathrm{(D)}\\ 430,000\\qquad\\mathrm{(E)}\\ 700,000$",
+        "Answer": "C"
+    },
+    {
+        "Index": 5,
+        "Setup": "For real numbers $a$ and $b$, define $a \\textdollar b$ $=(a-b)^2$. What is $(x-y)^2\\textdollar(y-x)^2$?",
+        "Options": "$\\mathrm{(A)}\\ 0\\qquad\\mathrm{(B)}\\ x^2+y^2\\qquad\\mathrm{(C)}\\ 2x^2\\qquad\\mathrm{(D)}\\ 2y^2\\qquad\\mathrm{(E)}\\ 4xy$",
+        "Answer": "A"
+    },
+    {
+        "Index": 6,
+        "Setup": "Points $B$ and $C$ lie on $AD$. The length of $AB$ is $4$ times the length of $BD$, and the length of $AC$ is $9$ times the length of $CD$. The length of $BC$ is what fraction of the length of $AD$?",
+        "Options": "$\\mathrm{(A)}\\ 1/36\\qquad\\mathrm{(B)}\\ 1/13\\qquad\\mathrm{(C)}\\ 1/10\\qquad\\mathrm{(D)}\\ 5/36\\qquad\\mathrm{(E)}\\ 1/5$",
+        "Answer": "C"
+    },
+    {
+        "Index": 7,
+        "Setup": "An equilateral triangle of side length $10$ is completely filled in by non-overlapping equilateral triangles of side length $1$. How many small triangles are required?",
+        "Options": "$\\mathrm{(A)}\\ 10\\qquad\\mathrm{(B)}\\ 25\\qquad\\mathrm{(C)}\\ 100\\qquad\\mathrm{(D)}\\ 250\\qquad\\mathrm{(E)}\\ 1000$",
+        "Answer": "C"
+    },
+    {
+        "Index": 8,
+        "Setup": "A class collects $\\textdollar50$ to buy flowers for a classmate who is in the hospital. Roses cost $\\textdollar3$ each, and carnations cost $\\textdollar2$ each. No other flowers are to be used. How many different bouquets could be purchased for exactly $\\textdollar50$?",
+        "Options": "$\\mathrm{(A)}\\ 1 \\qquad \\mathrm{(B)}\\ 7 \\qquad \\mathrm{(C)}\\ 9 \\qquad \\mathrm{(D)}\\ 16 \\qquad \\mathrm{(E)}\\ 17$",
+        "Answer": "C"
+    },
+    {
+        "Index": 9,
+        "Setup": "A quadratic equation $ax^2 - 2ax + b = 0$ has two real solutions. What is the average of these two solutions?",
+        "Options": "$\\mathrm{(A)}\\ 1\\qquad\\mathrm{(B)}\\ 2\\qquad\\mathrm{(C)}\\ \\frac ba\\qquad\\mathrm{(D)}\\ \\frac{2b}a\\qquad\\mathrm{(E)}\\ \\sqrt{2b-a}$",
+        "Answer": "A"
+    },
+    {
+        "Index": 10,
+        "Setup": "Points $A$ and $B$ are on a circle of radius $5$ and $AB=6$. Point $C$ is the midpoint of the minor arc $AB$. What is the length of the line segment $AC$?",
+        "Options": "$\\mathrm{(A)}\\ \\sqrt{10}\\qquad\\mathrm{(B)}\\ \\frac{7}{2}\\qquad\\mathrm{(C)}\\ \\sqrt{14}\\qquad\\mathrm{(D)}\\ \\sqrt{15}\\qquad\\mathrm{(E)}\\ 4$",
+        "Answer": "A"
+    },
+    {
+        "Index": 11,
+        "Setup": "Suppose that $(u_n)$ is a sequence of real numbers satisfying $u_{n+2}=2u_{n+1}+u_n$,",
+        "Options": "and that $u_3=9$ and $u_6=128$. What is $u_5$?",
+        "Answer": "B"
+    },
+    {
+        "Index": 12,
+        "Setup": "Postman Pete has a pedometer to count his steps. The pedometer records up to 99999 steps, then flips over to 00000 on the next step. Pete plans to determine his mileage for a year. On January 1 Pete sets the pedometer to 00000. During the year, the pedometer flips from 99999 to 00000 forty-four \ntimes. On December 31 the pedometer reads 50000. Pete takes 1800 steps per mile. Which of the following is closest to the number of miles Pete walked during the year?",
+        "Options": "$\\mathrm{(A)}\\ 2500\\qquad\\mathrm{(B)}\\ 3000\\qquad\\mathrm{(C)}\\ 3500\\qquad\\mathrm{(D)}\\ 4000\\qquad\\mathrm{(E)}\\ 4500$",
+        "Answer": "A"
+    },
+    {
+        "Index": 13,
+        "Setup": "For each positive integer $n$, the mean of the first $n$ terms of a sequence is $n$. What is the 2008th term of the sequence?",
+        "Options": "$\\mathrm{(A)}\\ {{{2008}}} \\qquad \\mathrm{(B)}\\ {{{4015}}} \\qquad \\mathrm{(C)}\\ {{{4016}}} \\qquad \\mathrm{(D)}\\ {{{4,030,056}}} \\qquad \\mathrm{(E)}\\ {{{4,032,064}}}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 14,
+        "Setup": "Triangle $OAB$ has $O=(0,0)$, $B=(5,0)$, and $A$ in the first quadrant. In addition, $\\angle ABO=90^\\circ$ and $\\angle AOB=30^\\circ$. Suppose that $OA$ is rotated $90^\\circ$ counterclockwise about $O$. What are the coordinates of the image of $A$?",
+        "Options": "$\\mathrm{(A)}\\ \\left( - \\frac {10}{3}\\sqrt {3},5\\right) \\qquad \\mathrm{(B)}\\ \\left( - \\frac {5}{3}\\sqrt {3},5\\right) \\qquad \\mathrm{(C)}\\ \\left(\\sqrt {3},5\\right) \\qquad \\mathrm{(D)}\\ \\left(\\frac {5}{3}\\sqrt {3},5\\right) \\qquad \\mathrm{(E)}\\ \\left(\\frac {10}{3}\\sqrt {3},5\\right)$",
+        "Answer": "B"
+    },
+    {
+        "Index": 15,
+        "Setup": "How many right triangles have integer leg lengths $a$ and $b$ and a hypotenuse of length $b+1$, where $b<100$?",
+        "Options": "$\\mathrm{(A)}\\ 6\\qquad\\mathrm{(B)}\\ 7\\qquad\\mathrm{(C)}\\ 8\\qquad\\mathrm{(D)}\\ 9\\qquad\\mathrm{(E)}\\ 10$",
+        "Answer": "A"
+    },
+    {
+        "Index": 16,
+        "Setup": "Two fair coins are to be tossed once. For each head that results, one fair die is to be rolled. What is the probability that the sum of the die rolls is odd? (Note that if no die is rolled, the sum is $0$.)",
+        "Options": "$\\mathrm{(A)}\\ {{{\\frac{3} {8}}}} \\qquad \\mathrm{(B)}\\ {{{\\frac{1} {2}}}} \\qquad \\mathrm{(C)}\\ {{{\\frac{43} {72}}}} \\qquad \\mathrm{(D)}\\ {{{\\frac{5} {8}}}} \\qquad \\mathrm{(E)}\\ {{{\\frac{2} {3}}}}$",
+        "Answer": "A"
+    },
+    {
+        "Index": 17,
+        "Setup": "A poll shows that $70\\%$ of all voters approve of the mayor's work. On three separate occasions a pollster selects a voter at random. What is the probability that on exactly one of these three occasions the voter approves of the mayor's work?",
+        "Options": "$\\mathrm{(A)}\\ {{{0.063}}} \\qquad \\mathrm{(B)}\\ {{{0.189}}} \\qquad \\mathrm{(C)}\\ {{{0.233}}} \\qquad \\mathrm{(D)}\\ {{{0.333}}} \\qquad \\mathrm{(E)}\\ {{{0.441}}}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 18,
+        "Setup": "Bricklayer Brenda would take nine hours to build a chimney alone, and Bricklayer Brandon would take $10$ hours to build it alone. When they work together, they talk a lot, and their combined output decreases by $10$ bricks per hour. Working together, they build the chimney in $5$ hours. How many bricks are in the chimney?",
+        "Options": "$\\mathrm{(A)}\\ 500\\qquad\\mathrm{(B)}\\ 900\\qquad\\mathrm{(C)}\\ 950\\qquad\\mathrm{(D)}\\ 1000\\qquad\\mathrm{(E)}\\ 1900$",
+        "Answer": "B"
+    },
+    {
+        "Index": 19,
+        "Setup": "A cylindrical tank with radius $4$ feet and height $9$ feet is lying on its side. The tank is filled with water to a depth of $2$ feet. What is the volume of water, in cubic feet?",
+        "Options": "$\\mathrm{(A)}\\ 24\\pi - 36 \\sqrt {2} \\qquad \\mathrm{(B)}\\ 24\\pi - 24 \\sqrt {3} \\qquad \\mathrm{(C)}\\ 36\\pi - 36 \\sqrt {3} \\qquad \\mathrm{(D)}\\ 36\\pi - 24 \\sqrt {2} \\qquad \\mathrm{(E)}\\ 48\\pi - 36 \\sqrt {3}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 20,
+        "Setup": "The faces of a cubical die are marked with the numbers $1$, $2$, $2$, $3$, $3$, and $4$. The faces of another die are marked with the numbers $1$, $3$, $4$, $5$, $6$, and $8$. Both dice are thrown. What is the probability that the sum of the top two numbers will be $5$, $7$, or $9$?",
+        "Options": "$\\mathrm{(A)}\\ 5/18\\qquad\\mathrm{(B)}\\ 7/18\\qquad\\mathrm{(C)}\\ 11/18\\qquad\\mathrm{(D)}\\ 3/4\\qquad\\mathrm{(E)}\\ 8/9$",
+        "Answer": "B"
+    },
+    {
+        "Index": 21,
+        "Setup": "Ten chairs are evenly spaced around a round table  and numbered clockwise from $1$ through $10$. Five married couples are to sit in the chairs with men and women alternating, and no one is to sit either next to or across from his/her spouse. How many seating arrangements are possible?",
+        "Options": "$\\mathrm{(A)}\\ 240\\qquad\\mathrm{(B)}\\ 360\\qquad\\mathrm{(C)}\\ 480\\qquad\\mathrm{(D)}\\ 540\\qquad\\mathrm{(E)}\\ 720$",
+        "Answer": "C"
+    },
+    {
+        "Index": 22,
+        "Setup": "Three red beads, two white beads, and one blue bead are placed in line in random order. What is the probability that no two neighboring beads are the same color?",
+        "Options": "$\\mathrm{(A)}\\ 1/12\\qquad\\mathrm{(B)}\\ 1/10\\qquad\\mathrm{(C)}\\ 1/6\\qquad\\mathrm{(D)}\\ 1/3\\qquad\\mathrm{(E)}\\ 1/2$",
+        "Answer": "C"
+    },
+    {
+        "Index": 23,
+        "Setup": "A rectangular floor measures $a$ by $b$ feet, where $a$ and $b$ are positive integers with $b > a$. An artist paints a rectangle on the floor with the sides of the rectangle parallel to the sides of the floor. The unpainted part of the floor forms a border of width 1 foot around the painted\nrectangle and occupies half of the area of the entire floor. How many possibilities are there for the ordered pair $(a, b)$?",
+        "Options": "$\\mathrm{(A)}\\ 1\\qquad\\mathrm{(B)}\\ 2\\qquad\\mathrm{(C)}\\ 3\\qquad\\mathrm{(D)}\\ 4\\qquad\\mathrm{(E)}\\ 5$",
+        "Answer": "B"
+    },
+    {
+        "Index": 24,
+        "Setup": "Quadrilateral $ABCD$ has $AB = BC = CD$, angle $ABC = 70$ and angle $BCD = 170$. What is the measure of angle $BAD$?",
+        "Options": "$\\mathrm{(A)}\\ 75\\qquad\\mathrm{(B)}\\ 80\\qquad\\mathrm{(C)}\\ 85\\qquad\\mathrm{(D)}\\ 90\\qquad\\mathrm{(E)}\\ 95$",
+        "Answer": "C"
+    },
+    {
+        "Index": 25,
+        "Setup": "Michael walks at the rate of $5$ feet per second on a long straight path. Trash pails are located every $200$ feet along the path. A garbage truck travels at $10$ feet per second in the same direction as Michael and stops for $30$ seconds at each pail. As Michael passes a pail, he notices the truck ahead of him just leaving the next pail. How many times will Michael and the truck meet?",
+        "Options": "$\\mathrm{(A)}\\ 4\\qquad\\mathrm{(B)}\\ 5\\qquad\\mathrm{(C)}\\ 6\\qquad\\mathrm{(D)}\\ 7\\qquad\\mathrm{(E)}\\ 8$",
+        "Answer": "B"
+    }
+]

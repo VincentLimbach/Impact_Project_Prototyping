@@ -1,0 +1,50 @@
+0: ['In the year 2001, the United States will host the International Mathematical Olympiad. Let $I$, $M$, and $O$ be distinct positive integers such that the product $I \cdot M \cdot O = 2001$. What is the largest possible value of the sum $I + M + O$?', 'E']
+
+1: ['$2000({2000}^{2000}) =$', 'A']
+
+2: ['Each day, Jenny ate $20\%$ of the jellybeans that were in her jar at the beginning of that day. At the end of the second day, $32$ remained. How many jellybeans were in the jar originally?', 'B']
+
+3: ['Chandra pays an on-line service provider a fixed monthly fee plus an hourly charge for connect time. Her December bill was $$12.48$, but in January her bill was $$17.54$ because she used twice as much connect time as in December. What is the fixed monthly fee?', 'D']
+
+4: ['Points $M$ and $N$ are the midpoints of sides $PA$ and $PB$ of $\triangle PAB$. As $P$ moves along a line that is parallel to side $AB$, how many of the four quantities listed below change?', 'B']
+
+5: ['The Fibonacci sequence $1, 1, 2, 3, 5, 8, 13, 21, \ldots$ starts with two $1$s, and each term afterwards is the sum of its two predecessors. Which one of the ten digits is the  last to appear in the units position of a number in the Fibonacci sequence?', 'C']
+
+6: ['In rectangle $ABCD$, $AD=1$, $P$ is on $\overline{AB}$, and $\overline{DB}$ and $\overline{DP}$ trisect $\angle ADC$.  What is the perimeter of $\triangle BDP$?', 'B']
+
+7: ['At Olympic High School, $\frac{2}{5}$ of the freshmen and $\frac{4}{5}$ of the sophomores took the AMC 10. Given that the number of freshmen and sophomore contestants was the same, which of the following must be true?', 'D']
+
+8: ['If $|x-2|=p$, where $x<2$, then $x-p=$', 'C']
+
+9: ['The sides of a triangle with positive area have lengths $4$, $6$, and $x$. The sides of a second triangle with positive area have lengths $4$, $6$, and $y$. What is the smallest positive number that is not a possible value of $|x-y|$?', 'D']
+
+10: ['Two different prime numbers between $4$ and $18$ are chosen. When their sum is subtracted from their product, which of the following numbers could be obtained?', 'C']
+
+11: ['Figures $0$, $1$, $2$, and $3$ consist of $1$, $5$, $13$, and $25$ nonoverlapping unit squares, respectively. If the pattern were continued, how many nonoverlapping unit squares would there be in figure 100?', 'C']
+
+12: ['There are 5 yellow pegs, 4 red pegs, 3 green pegs, 2 blue pegs, and 1 orange peg to be placed on a triangular peg board. In how many ways can the pegs be placed so that no (horizontal) row or (vertical) column contains two pegs of the same color?', 'B']
+
+13: ['Mrs. Walter gave an exam in a mathematics class of five students.  She entered the scores in random order into a spreadsheet, which recalculated the class average after each score was entered.  Mrs. Walter noticed that after each score was entered, the average was always an integer.  The scores (listed in ascending order) were $71$, $76$, $80$, $82$, and $91$.  What was the last score Mrs. Walter entered?', 'C']
+
+14: ['Two non-zero real numbers, $a$ and $b$, satisfy $ab=a-b$.  Find a possible value of $\frac{a}{b}+\frac{b}{a}-ab$.', 'E']
+
+15: ['The diagram shows $28$ lattice points, each one unit from its nearest neighbors. Segment $AB$ meets segment $CD$ at $E$. Find the length of segment $AE$.', 'B']
+
+16: ['Boris has an incredible coin changing machine. When he puts in a quarter, it returns five nickels; when he puts in a nickel, it returns five pennies; and when he puts in a penny, it returns five quarters. Boris starts with just one penny. Which of the following amounts could Boris have after using the machine repeatedly?', 'D']
+
+17: ['Charlyn walks completely around the boundary of a square whose sides are each $5$ km long. From any point on her path she can see exactly $1$ km horizontally in all directions. What is the area of the region consisting of all points Charlyn can see during her walk, expressed in square kilometers and rounded to the nearest whole number?', 'C']
+
+18: ['Through a point on the hypotenuse of a right triangle, lines are drawn parallel to the legs of the triangle so that the triangle is divided into a square and two smaller right triangles. The area of one of the two small right triangles is $m$ times the area of the square. The ratio of the area of the other small right triangle to the area of the square is', 'D']
+
+19: ['Let $A$, $M$, and $C$ be nonnegative integers such that $A+M+C=10$.  What is the maximum value of $A\cdot M\cdot C+A\cdot M+M\cdot C+C\cdot A$?', 'C']
+
+20: ['If all alligators are ferocious creatures and some ugly crawlers are alligators, which statement(s) must be true?', 'B']
+
+21: ['One morning each member of Angela's family drank an 8-ounce mixture of coffee with milk. The amounts of coffee and milk varied from cup to cup, but were never zero. Angela drank a quarter of the total amount of milk and a sixth of the total amount of coffee. How many people are in the family?', 'C']
+
+22: ['When the mean, median, and mode of the list \[10,2,5,2,4,2,x\] are arranged in increasing order, they form a non-constant arithmetic progression. What is the sum of all possible real values of $x$?', 'E']
+
+23: ['Let $f$ be a function for which $f\left(\frac{x}{3}\right)=x^2+x+1$. Find the sum of all values of $z$ for which $f(3z)=7$.', 'B']
+
+24: ['In year $N$, the $300^\text{th}$ day of the year is a Tuesday. In year $N+1$, the $200^\text{th}$ day is also a Tuesday. On what day of the week did the $100^\text{th}$ day of year $N-1$ occur?', 'A']
+

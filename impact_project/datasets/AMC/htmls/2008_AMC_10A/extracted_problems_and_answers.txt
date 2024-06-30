@@ -1,0 +1,58 @@
+0: ['A bakery owner turns on his doughnut machine at $\text{8:30}\ {\small\text{AM}}$. At $\text{11:10}\ {\small\text{AM}}$ the machine has completed one third of the day's job. At what time will the doughnut machine complete the job?', 'D']
+
+1: ['A square is drawn inside a rectangle. The ratio of the width of the rectangle to a side of the square is $2:1$. The ratio of the rectangle's length to its width is $2:1$. What percent of the rectangle's area is in the square?', 'A']
+
+2: ['For the positive integer $n$, let $\langle n\rangle$ denote the sum of all the positive divisors of $n$ with the exception of $n$ itself. For example, $\langle 4\rangle=1+2=3$ and $\langle 12 \rangle =1+2+3+4+6=16$. What is $\langle\langle\langle 6\rangle\rangle\rangle$?', 'A']
+
+3: ['Suppose that $\tfrac{2}{3}$ of $10$ bananas are worth as much as $8$ oranges. How many oranges are worth as much as $\tfrac{1}{2}$ of $5$ bananas?', 'C']
+
+4: ['Which of the following is equal to the product
+\[\frac{8}{4}\cdot\frac{12}{8}\cdot\frac{16}{12}\cdot\cdots\cdot\frac{4n+4}{4n}\cdot\cdots\cdot\frac{2008}{2004}?\]', 'B']
+
+5: ['A triathlete competes in a triathlon in which the swimming, biking, and running segments are all of the same length. The triathlete swims at a rate of 3 kilometers per hour, bikes at a rate of 20 kilometers per hour, and runs at a rate of 10 kilometers per hour. Which of the following is closest to the triathlete's average speed, in kilometers per hour, for the entire race?', 'D']
+
+6: ['The fraction
+\[\frac{\left(3^{2008}\right)^2-\left(3^{2006}\right)^2}{\left(3^{2007}\right)^2-\left(3^{2005}\right)^2}\]
+simplifies to which of the following?', 'E']
+
+7: ['Heather compares the price of a new computer at two different stores. Store $A$ offers $15\%$ off the sticker price followed by a $\textdollar90$ rebate, and store $B$ offers $25\%$ off the same sticker price with no rebate. Heather saves $\textdollar15$ by buying the computer at store $A$ instead of store $B$. What is the sticker price of the computer, in dollars?', 'A']
+
+8: ['Suppose that
+\[\frac{2x}{3}-\frac{x}{6}\]
+is an integer. Which of the following statements must be true about $x$?', 'B']
+
+9: ['Each of the sides of a square $S_1$ with area $16$ is bisected, and a smaller square $S_2$ is constructed using the bisection points as vertices. The same process is carried out on $S_2$ to construct an even smaller square $S_3$. What is the area of $S_3$?', 'E']
+
+10: ['While Steve and LeRoy are fishing 1 mile from shore, their boat springs a leak, and water comes in at a constant rate of 10 gallons per minute. The boat will sink if it takes in more than 30 gallons of water. Steve starts rowing toward the shore at a constant rate of 4 miles per hour while LeRoy bails water out of the boat. What is the slowest rate, in gallons per minute, at which LeRoy can bail if they are to reach the shore without sinking?', 'D']
+
+11: ['In a collection of red, blue, and green marbles, there are $25\%$ more red marbles than blue marbles, and there are $60\%$ more green marbles than red marbles. Suppose that there are $r$ red marbles. What is the total number of marbles in the collection?
+$\mathrm{(A)}\ 2.85r\qquad\mathrm{(B)}\ 3r\qquad\mathrm{(C)}\ 3.4r\qquad\mathrm{(D)}\ 3.85r\qquad\mathrm{(E)}\ 4.25r$', 'C']
+
+12: ['Doug can paint a room in $5$ hours. Dave can paint the same room in $7$ hours. Doug and Dave paint the room together and take a one-hour break for lunch. Let $t$ be the total time, in hours, required for them to complete the job working together, including lunch. Which of the following equations is satisfied by $t$?', 'D']
+
+13: ['Older television screens have an aspect ratio of $4: 3$. That is, the ratio of the width to the height is $4: 3$. The aspect ratio of many movies is not $4: 3$, so they are sometimes shown on a television screen by "letterboxing" - darkening strips of equal height at the top and bottom of the screen, as shown. Suppose a movie has an aspect ratio of $2: 1$ and is shown on an older television screen with a $27$-inch diagonal. What is the height, in inches, of each darkened strip?
+[asy]unitsize(1mm); filldraw((0,0)--(21.6,0)--(21.6,2.7)--(0,2.7)--cycle,grey,black); filldraw((0,13.5)--(21.6,13.5)--(21.6,16.2)--(0,16.2)--cycle,grey,black); draw((0,0)--(21.6,0)--(21.6,16.2)--(0,16.2)--cycle);[/asy]
+$\mathrm{(A)}\ 2\qquad\mathrm{(B)}\ 2.25\qquad\mathrm{(C)}\ 2.5\qquad\mathrm{(D)}\ 2.7\qquad\mathrm{(E)}\ 3$', 'D']
+
+14: ['Yesterday Han drove 1 hour longer than Ian at an average speed 5 miles per hour faster than Ian. Jan drove 2 hours longer than Ian at an average speed 10 miles per hour faster than Ian. Han drove 70 miles more than Ian. How many more miles did Jan drive than Ian?', 'D']
+
+15: ['Points $A$ and $B$ lie on a circle centered at $O$, and $\angle AOB = 60^\circ$. A second circle is internally tangent to the first and tangent to both $\overline{OA}$ and $\overline{OB}$. What is the ratio of the area of the smaller circle to that of the larger circle?', 'B']
+
+16: ['An equilateral triangle has side length 6. What is the area of the region containing all points that are outside the triangle but not more than 3 units from a point on the triangle?', 'B']
+
+17: ['A right triangle has perimeter 32 and area 20. What is the length of its hypotenuse?', 'B']
+
+18: ['Rectangle $PQRS$ lies in a plane with $PQ=RS=2$ and $QR=SP=6$. The rectangle is rotated $90^\circ$ clockwise about $R$, then rotated $90^\circ$ clockwise about the point $S$ moved to after the first rotation. What is the length of the path traveled by point $P$?', 'C']
+
+19: ['Trapezoid $ABCD$ has bases $\overline{AB}$ and $\overline{CD}$ and diagonals intersecting at $K$. Suppose that $AB = 9$, $DC = 12$, and the area of $\triangle AKD$ is $24$. What is the area of trapezoid $ABCD$?', 'D']
+
+20: ['A cube with side length $1$ is sliced by a plane that passes through two diagonally opposite vertices $A$ and $C$ and the midpoints $B$ and $D$ of two opposite edges not containing $A$ or $C$, as shown. What is the area of quadrilateral $ABCD$?', 'A']
+
+21: ['Jacob uses the following procedure to write down a sequence of numbers. First he chooses the first term to be 6. To generate each succeeding term, he flips a fair coin. If it comes up heads, he doubles the previous term and subtracts 1. If it comes up tails, he takes half of the previous term and subtracts 1. What is the probability that the fourth term in Jacob's sequence is an integer?', 'D']
+
+22: ['Two subsets of the set $S=\lbrace a,b,c,d,e\rbrace$ are to be chosen so that their union is $S$ and their intersection contains exactly two elements. In how many ways can this be done, assuming that the order in which the subsets are chosen does not matter?', 'B']
+
+23: ['Let $k={2008}^{2}+{2}^{2008}$. What is the units digit of $k^2+2^k$?', 'D']
+
+24: ['A round table has radius $4$. Six rectangular place mats are placed on the table. Each place mat has width $1$ and length $x$ as shown. They are positioned so that each mat has two corners on the edge of the table, these two corners being end points of the same side of length $x$. Furthermore, the mats are positioned so that the inner corners each touch an inner corner of an adjacent mat. What is $x$?', 'C']
+

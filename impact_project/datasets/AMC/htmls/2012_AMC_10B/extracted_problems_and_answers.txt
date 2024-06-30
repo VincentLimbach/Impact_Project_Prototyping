@@ -1,0 +1,50 @@
+0: ['Each third-grade classroom at Pearl Creek Elementary has 18 students and 2 rabbits.  How many more students than rabbits are there in all 4 of the third-grade classrooms?', 'C']
+
+1: ['A circle of radius 5 is inscribed in a rectangle as shown.  The ratio of the length of the rectangle to its width is 2:1. What is the area of the rectangle?', 'E']
+
+2: ['The point in the xy-plane with coordinates $(1000, 2012)$ is reflected across the line $y = 2000$.  What are the coordinates of the reflected point?', 'B']
+
+3: ['When Ringo places his marbles into bags with 6 marbles per bag, he has 4 marbles left over.  When Paul does the same with his marbles, he has 3 marbles left over.  Ringo and Paul pool their marbles and place them into as many bags as possible, with 6 marbles per bag.  How many marbles will be left over?', 'A']
+
+4: ['Anna enjoys dinner at a restaurant in Washington, D.C., where the sales tax on meals is 10%. She leaves a 15% tip on the price of her meal before the sales tax is added, and the tax is calculated on the pre-tip amount. She spends a total of 27.50 dollars for dinner. What is the cost of her dinner without tax or tip in dollars?', 'D']
+
+5: ['In order to estimate the value of $x-y$ where $x$ and $y$ are real numbers with $x > y > 0$, Xiaoli rounded $x$ up by a small amount, rounded $y$ down by the same amount, and then subtracted her rounded values. Which of the following statements is necessarily correct?', 'A']
+
+6: ['For a science project, Sammy observed a chipmunk and a squirrel stashing acorns in holes. The chipmunk hid 3 acorns in each of the holes it dug. The squirrel hid 4 acorns in each of the holes it dug. They each hid the same number of acorns, although the squirrel needed 4 fewer holes. How many acorns did the chipmunk hide?', 'D']
+
+7: ['What is the sum of all integer solutions to $1<(x-2)^2<25$?', 'B']
+
+8: ['Two integers have a sum of 26. When two more integers are added to the first two integers the sum is 41. Finally when two more integers are added to the sum of the previous four integers the sum is 57. What is the minimum number of odd integers among the 6 integers?', 'A']
+
+9: ['How many ordered pairs of positive integers $(M,N)$ satisfy the equation $\frac{M}{6}=\frac{6}{N}?$', 'D']
+
+10: ['A dessert chef prepares the dessert for every day of a week starting with Sunday. The dessert each day is either cake, pie, ice cream, or pudding. The same dessert may not be served two days in a row. There must be cake on Friday because of a birthday. How many different dessert menus for the week are possible?', 'A']
+
+11: ['Point $B$ is due east of point $A$. Point $C$ is due north of point $B$. The distance between points $A$ and $C$ is $10\sqrt 2$, and $\angle BAC = 45^\circ$. Point $D$ is $20$ meters due north of point $C$. The distance $AD$ is between which two integers?', 'B']
+
+12: ['It takes Clea 60 seconds to walk down an escalator when it is not operating, and only 24 seconds to walk down the escalator when it is operating. How many seconds does it take Clea to ride down the operating escalator when she just stands on it?', 'B']
+
+13: ['Two equilateral triangles are contained in a square whose side length is $2\sqrt 3$. The bases of these triangles are the opposite sides of the square, and their intersection is a rhombus. What is the area of the rhombus?', 'D']
+
+14: ['In a round-robin tournament with 6 teams, each team plays one game against each other team, and each game results in one team winning and one team losing. At the end of the tournament, the teams are ranked by the number of games won. What is the maximum number of teams that could be tied for the most wins at the end of the tournament?', 'D']
+
+15: ['Three circles with radius 2 are mutually tangent. What is the total area of the circles and the region bounded by them, as shown in the figure?', 'A']
+
+16: ['Jesse cuts a circular paper disk of radius $12$ along two radii to form two sectors, the smaller having a central angle of $120$ degrees. He makes two circular cones, using each sector to form the lateral surface of a cone. What is the ratio of the volume of the smaller cone to that of the larger?', 'C']
+
+17: ['Suppose that one of every 500 people in a certain population has a particular disease, which displays no symptoms. A blood test is available for screening for this disease. For a person who has this disease, the test always turns out positive. For a person who does not have the disease, however, there is a $2\%$ false positive rate--in other words, for such people, $98\%$ of the time the test will turn out negative, but $2\%$ of the time the test will turn out positive and will incorrectly indicate that the person has the disease. Let $p$ be the probability that a person who is chosen at random from this population and gets a positive test result actually has the disease. Which of the following is closest to $p$?', 'C']
+
+18: ['In rectangle $ABCD$, $AB=6$, $AD=30$, and $G$ is the midpoint of $\overline{AD}$. Segment $AB$ is extended 2 units beyond $B$ to point $E$, and $F$ is the intersection of $\overline{ED}$ and $\overline{BC}$. What is the area of $BFDG$?', 'C']
+
+19: ['Bernardo and Silvia play the following game. An integer between 0 and 999, inclusive, is selected and given to Bernardo. Whenever Bernardo receives a number, he doubles it and passes the result to Silvia. Whenever Silvia receives a number, she adds 50 to it and passes the result to Bernardo. The winner is the last person who produces a number less than 1000. Let $N$ be the smallest initial number that results in a win for Bernardo. What is the sum of the digits of $N$?', 'A']
+
+20: ['Four distinct points are arranged on a plane so that the segments connecting them have lengths $a$, $a$, $a$, $a$, $2a$, and $b$. What is the ratio of $b$ to $a$?', 'A']
+
+21: ['Let $(a_1,a_2, \dots ,a_{10})$ be a list of the first 10 positive integers such that for each $2 \le i \le 10$ either $a_i+1$ or $a_i-1$ or both appear somewhere before $a_i$ in the list. How many such lists are there?', 'B']
+
+22: ['A solid tetrahedron is sliced off a wooden unit cube by a plane passing through two nonadjacent vertices on one face and one vertex on the opposite face not adjacent to either of the first two vertices. The tetrahedron is discarded and the remaining portion of the cube is placed on a table with the cut surface face down. What is the height of this object?', 'D']
+
+23: ['Amy, Beth, and Jo listen to four different songs and discuss which ones they like. No song is liked by all three. Furthermore, for each of the three pairs of the girls, there is at least one song liked by those girls but disliked by the third. In how many different ways is this possible?', 'B']
+
+24: ['A bug travels from $A$ to $B$ along the segments in the hexagonal lattice pictured below. The segments marked with an arrow can be traveled only in the direction of the arrow, and the bug never travels the same segment more than once. How many different paths are there?', 'E']
+

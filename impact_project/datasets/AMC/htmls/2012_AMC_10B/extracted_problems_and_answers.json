@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 1,
+        "Setup": "Each third-grade classroom at Pearl Creek Elementary has 18 students and 2 rabbits.  How many more students than rabbits are there in all 4 of the third-grade classrooms?",
+        "Options": "$\\textbf{(A)}\\ 48\\qquad\\textbf{(B)}\\ 56\\qquad\\textbf{(C)}\\ 64\\qquad\\textbf{(D)}\\ 72\\qquad\\textbf{(E)}\\ 80$",
+        "Answer": "C"
+    },
+    {
+        "Index": 2,
+        "Setup": "A circle of radius 5 is inscribed in a rectangle as shown.  The ratio of the length of the rectangle to its width is 2:1. What is the area of the rectangle?",
+        "Options": "[asy] draw((0,0)--(0,10)--(20,10)--(20,0)--cycle);  draw(circle((10,5),5));[/asy]",
+        "Answer": "E"
+    },
+    {
+        "Index": 3,
+        "Setup": "The point in the xy-plane with coordinates $(1000, 2012)$ is reflected across the line $y = 2000$.  What are the coordinates of the reflected point?",
+        "Options": "$\\textbf{(A)}\\ (998,2012)\\qquad\\textbf{(B)}\\ (1000,1988)\\qquad\\textbf{(C)}\\ (1000,2024)\\qquad\\textbf{(D)}\\ (1000,4012)\\qquad\\textbf{(E)}\\ (1012,2012)$",
+        "Answer": "B"
+    },
+    {
+        "Index": 4,
+        "Setup": "When Ringo places his marbles into bags with 6 marbles per bag, he has 4 marbles left over.  When Paul does the same with his marbles, he has 3 marbles left over.  Ringo and Paul pool their marbles and place them into as many bags as possible, with 6 marbles per bag.  How many marbles will be left over?",
+        "Options": "$\\textbf{(A)}\\ 1\\qquad\\textbf{(B)}\\ 2\\qquad\\textbf{(C)}\\ 3\\qquad\\textbf{(D)}\\ 4\\qquad\\textbf{(E)}\\ 5$",
+        "Answer": "A"
+    },
+    {
+        "Index": 5,
+        "Setup": "Anna enjoys dinner at a restaurant in Washington, D.C., where the sales tax on meals is 10%. She leaves a 15% tip on the price of her meal before the sales tax is added, and the tax is calculated on the pre-tip amount. She spends a total of 27.50 dollars for dinner. What is the cost of her dinner without tax or tip in dollars?",
+        "Options": "$\\textbf{(A)}\\ 18\\qquad\\textbf{(B)}\\ 20\\qquad\\textbf{(C)}\\ 21\\qquad\\textbf{(D)}\\ 22\\qquad\\textbf{(E)}\\ 24$",
+        "Answer": "D"
+    },
+    {
+        "Index": 6,
+        "Setup": "In order to estimate the value of $x-y$ where $x$ and $y$ are real numbers with $x > y > 0$, Xiaoli rounded $x$ up by a small amount, rounded $y$ down by the same amount, and then subtracted her rounded values. Which of the following statements is necessarily correct?",
+        "Options": "$\\textbf{(A)}$ Her estimate is larger than $x-y$\n$\\textbf{(B)}$ Her estimate is smaller than $x-y$\n$\\textbf{(C)}$ Her estimate equals $x-y$\n$\\textbf{(D)}$ Her estimate equals $y - x$\n$\\textbf{(E)}$ Her estimate is $0$",
+        "Answer": "A"
+    },
+    {
+        "Index": 7,
+        "Setup": "For a science project, Sammy observed a chipmunk and a squirrel stashing acorns in holes. The chipmunk hid 3 acorns in each of the holes it dug. The squirrel hid 4 acorns in each of the holes it dug. They each hid the same number of acorns, although the squirrel needed 4 fewer holes. How many acorns did the chipmunk hide?",
+        "Options": "$\\textbf{(A)}\\ 30\\qquad\\textbf{(B)}\\ 36\\qquad\\textbf{(C)}\\ 42\\qquad\\textbf{(D)}\\ 48\\qquad\\textbf{(E)}\\ 54$",
+        "Answer": "D"
+    },
+    {
+        "Index": 8,
+        "Setup": "What is the sum of all integer solutions to $1<(x-2)^2<25$?",
+        "Options": "$\\textbf{(A)}\\ 10\\qquad\\textbf{(B)}\\ 12\\qquad\\textbf{(C)}\\ 15\\qquad\\textbf{(D)}\\ 19\\qquad\\textbf{(E)}\\ 25$",
+        "Answer": "B"
+    },
+    {
+        "Index": 9,
+        "Setup": "Two integers have a sum of 26. When two more integers are added to the first two integers the sum is 41. Finally when two more integers are added to the sum of the previous four integers the sum is 57. What is the minimum number of odd integers among the 6 integers?",
+        "Options": "$\\textbf{(A)}\\ 1\\qquad\\textbf{(B)}\\ 2\\qquad\\textbf{(C)}\\ 3\\qquad\\textbf{(D)}\\ 4\\qquad\\textbf{(E)}\\ 5$",
+        "Answer": "A"
+    },
+    {
+        "Index": 10,
+        "Setup": "How many ordered pairs of positive integers $(M,N)$ satisfy the equation $\\frac{M}{6}=\\frac{6}{N}?$",
+        "Options": "$\\textbf{(A)}\\ 6\\qquad\\textbf{(B)}\\ 7\\qquad\\textbf{(C)}\\ 8\\qquad\\textbf{(D)}\\ 9\\qquad\\textbf{(E)}\\ 10$",
+        "Answer": "D"
+    },
+    {
+        "Index": 11,
+        "Setup": "A dessert chef prepares the dessert for every day of a week starting with Sunday. The dessert each day is either cake, pie, ice cream, or pudding. The same dessert may not be served two days in a row. There must be cake on Friday because of a birthday. How many different dessert menus for the week are possible?",
+        "Options": "$\\textbf{(A)}\\ 729\\qquad\\textbf{(B)}\\ 972\\qquad\\textbf{(C)}\\ 1024\\qquad\\textbf{(D)}\\ 2187\\qquad\\textbf{(E)}\\ 2304$",
+        "Answer": "A"
+    },
+    {
+        "Index": 12,
+        "Setup": "Point $B$ is due east of point $A$. Point $C$ is due north of point $B$. The distance between points $A$ and $C$ is $10\\sqrt 2$, and $\\angle BAC = 45^\\circ$. Point $D$ is $20$ meters due north of point $C$. The distance $AD$ is between which two integers?",
+        "Options": "$\\textbf{(A)}\\ 30\\ \\text{and}\\ 31 \\qquad\\textbf{(B)}\\ 31\\ \\text{and}\\ 32 \\qquad\\textbf{(C)}\\ 32\\ \\text{and}\\ 33 \\qquad\\textbf{(D)}\\ 33\\ \\text{and}\\ 34 \\qquad\\textbf{(E)}\\ 34\\ \\text{and}\\ 35$",
+        "Answer": "B"
+    },
+    {
+        "Index": 13,
+        "Setup": "It takes Clea 60 seconds to walk down an escalator when it is not operating, and only 24 seconds to walk down the escalator when it is operating. How many seconds does it take Clea to ride down the operating escalator when she just stands on it?",
+        "Options": "$\\textbf{(A)}\\ 36\\qquad\\textbf{(B)}\\ 40\\qquad\\textbf{(C)}\\ 42\\qquad\\textbf{(D)}\\ 48\\qquad\\textbf{(E)}\\ 52$",
+        "Answer": "B"
+    },
+    {
+        "Index": 14,
+        "Setup": "Two equilateral triangles are contained in a square whose side length is $2\\sqrt 3$. The bases of these triangles are the opposite sides of the square, and their intersection is a rhombus. What is the area of the rhombus?",
+        "Options": "$\\text{(A) } \\frac{3}{2} \\qquad \\text{(B) } \\sqrt 3 \\qquad \\text{(C) } 2\\sqrt 2 -   1  \\qquad \\text{(D) } 8\\sqrt 3 - 12 \\qquad \\text{(E)}  \\frac{4\\sqrt 3}{3}$",
+        "Answer": "D"
+    },
+    {
+        "Index": 15,
+        "Setup": "In a round-robin tournament with 6 teams, each team plays one game against each other team, and each game results in one team winning and one team losing. At the end of the tournament, the teams are ranked by the number of games won. What is the maximum number of teams that could be tied for the most wins at the end of the tournament?",
+        "Options": "$\\textbf{(A)}\\ 2\\qquad\\textbf{(B)}\\ 3\\qquad\\textbf{(C)}\\ 4\\qquad\\textbf{(D)}\\ 5\\qquad\\textbf{(E)}\\ 6$",
+        "Answer": "D"
+    },
+    {
+        "Index": 16,
+        "Setup": "Three circles with radius 2 are mutually tangent. What is the total area of the circles and the region bounded by them, as shown in the figure?",
+        "Options": "[asy] filldraw((0,0)--(2,0)--(1,sqrt(3))--cycle,gray,gray); filldraw(circle((1,sqrt(3)),1),gray); filldraw(circle((0,0),1),gray); filldraw(circle((2,0),1),grey);[/asy]",
+        "Answer": "A"
+    },
+    {
+        "Index": 17,
+        "Setup": "Jesse cuts a circular paper disk of radius $12$ along two radii to form two sectors, the smaller having a central angle of $120$ degrees. He makes two circular cones, using each sector to form the lateral surface of a cone. What is the ratio of the volume of the smaller cone to that of the larger?",
+        "Options": "$\\textbf{(A)}\\ \\frac{1}{8}\\qquad\\textbf{(B)}\\ \\frac{1}{4}\\qquad\\textbf{(C)}\\ \\frac{\\sqrt{10}}{10}\\qquad\\textbf{(D)}\\ \\frac{\\sqrt{5}}{6}\\qquad\\textbf{(E)}\\ \\frac{\\sqrt{5}}{5}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 18,
+        "Setup": "Suppose that one of every 500 people in a certain population has a particular disease, which displays no symptoms. A blood test is available for screening for this disease. For a person who has this disease, the test always turns out positive. For a person who does not have the disease, however, there is a $2\\%$ false positive rate--in other words, for such people, $98\\%$ of the time the test will turn out negative, but $2\\%$ of the time the test will turn out positive and will incorrectly indicate that the person has the disease. Let $p$ be the probability that a person who is chosen at random from this population and gets a positive test result actually has the disease. Which of the following is closest to $p$?",
+        "Options": "$\\textbf{(A)}\\ \\frac{1}{98}\\qquad\\textbf{(B)}\\ \\frac{1}{9}\\qquad\\textbf{(C)}\\ \\frac{1}{11}\\qquad\\textbf{(D)}\\ \\frac{49}{99}\\qquad\\textbf{(E)}\\ \\frac{98}{99}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 19,
+        "Setup": "In rectangle $ABCD$, $AB=6$, $AD=30$, and $G$ is the midpoint of $\\overline{AD}$. Segment $AB$ is extended 2 units beyond $B$ to point $E$, and $F$ is the intersection of $\\overline{ED}$ and $\\overline{BC}$. What is the area of $BFDG$?",
+        "Options": "$\\textbf{(A)}\\ \\frac{133}{2}\\qquad\\textbf{(B)}\\ 67\\qquad\\textbf{(C)}\\ \\frac{135}{2}\\qquad\\textbf{(D)}\\ 68\\qquad\\textbf{(E)}\\ \\frac{137}{2}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 20,
+        "Setup": "Bernardo and Silvia play the following game. An integer between 0 and 999, inclusive, is selected and given to Bernardo. Whenever Bernardo receives a number, he doubles it and passes the result to Silvia. Whenever Silvia receives a number, she adds 50 to it and passes the result to Bernardo. The winner is the last person who produces a number less than 1000. Let $N$ be the smallest initial number that results in a win for Bernardo. What is the sum of the digits of $N$?",
+        "Options": "$\\textbf{(A)}\\ 7\\qquad\\textbf{(B)}\\ 8\\qquad\\textbf{(C)}\\ 9\\qquad\\textbf{(D)}\\ 10\\qquad\\textbf{(E)}\\ 11$",
+        "Answer": "A"
+    },
+    {
+        "Index": 21,
+        "Setup": "Four distinct points are arranged on a plane so that the segments connecting them have lengths $a$, $a$, $a$, $a$, $2a$, and $b$. What is the ratio of $b$ to $a$?",
+        "Options": "$\\textbf{(A)}\\ \\sqrt{3}\\qquad\\textbf{(B)}\\ 2\\qquad\\textbf{(C)}\\ \\sqrt{5}\\qquad\\textbf{(D)}\\ 3\\qquad\\textbf{(E)}\\ \\pi$",
+        "Answer": "A"
+    },
+    {
+        "Index": 22,
+        "Setup": "Let $(a_1,a_2, \\dots ,a_{10})$ be a list of the first 10 positive integers such that for each $2 \\le i \\le 10$ either $a_i+1$ or $a_i-1$ or both appear somewhere before $a_i$ in the list. How many such lists are there?",
+        "Options": "$\\textbf{(A)}\\ 120\\qquad\\textbf{(B)}\\ 512\\qquad\\textbf{(C)}\\ 1024\\qquad\\textbf{(D)}\\ 181,440\\qquad\\textbf{(E)}\\ 362,880$",
+        "Answer": "B"
+    },
+    {
+        "Index": 23,
+        "Setup": "A solid tetrahedron is sliced off a wooden unit cube by a plane passing through two nonadjacent vertices on one face and one vertex on the opposite face not adjacent to either of the first two vertices. The tetrahedron is discarded and the remaining portion of the cube is placed on a table with the cut surface face down. What is the height of this object?",
+        "Options": "$\\textbf{(A)}\\ \\frac{\\sqrt{3}}{3}\\qquad\\textbf{(B)}\\ \\frac{2\\sqrt{2}}{3}\\qquad\\textbf{(C)}\\ 1\\qquad\\textbf{(D)}\\ \\frac{2\\sqrt{3}}{3}\\qquad\\textbf{(E)}\\ \\sqrt{2}$",
+        "Answer": "D"
+    },
+    {
+        "Index": 24,
+        "Setup": "Amy, Beth, and Jo listen to four different songs and discuss which ones they like. No song is liked by all three. Furthermore, for each of the three pairs of the girls, there is at least one song liked by those girls but disliked by the third. In how many different ways is this possible?",
+        "Options": "$\\textbf{(A)}\\ 108\\qquad\\textbf{(B)}\\ 132\\qquad\\textbf{(C)}\\ 671\\qquad\\textbf{(D)}\\ 846\\qquad\\textbf{(E)}\\ 1105$",
+        "Answer": "B"
+    },
+    {
+        "Index": 25,
+        "Setup": "A bug travels from $A$ to $B$ along the segments in the hexagonal lattice pictured below. The segments marked with an arrow can be traveled only in the direction of the arrow, and the bug never travels the same segment more than once. How many different paths are there?",
+        "Options": "[asy] size(10cm); draw((0.0,0.0)--(1.0,1.7320508075688772)--(3.0,1.7320508075688772)--(4.0,3.4641016151377544)--(6.0,3.4641016151377544)--(7.0,5.196152422706632)--(9.0,5.196152422706632)--(10.0,6.928203230275509)--(12.0,6.928203230275509)); draw((0.0,0.0)--(1.0,1.7320508075688772)--(3.0,1.7320508075688772)--(4.0,3.4641016151377544)--(6.0,3.4641016151377544)--(7.0,5.196152422706632)--(9.0,5.196152422706632)--(10.0,6.928203230275509)--(12.0,6.928203230275509)); draw((3.0,-1.7320508075688772)--(4.0,0.0)--(6.0,0.0)--(7.0,1.7320508075688772)--(9.0,1.7320508075688772)--(10.0,3.4641016151377544)--(12.0,3.464101615137755)--(13.0,5.196152422706632)--(15.0,5.196152422706632)); draw((6.0,-3.4641016151377544)--(7.0,-1.7320508075688772)--(9.0,-1.7320508075688772)--(10.0,0.0)--(12.0,0.0)--(13.0,1.7320508075688772)--(15.0,1.7320508075688776)--(16.0,3.464101615137755)--(18.0,3.4641016151377544)); draw((9.0,-5.196152422706632)--(10.0,-3.464101615137755)--(12.0,-3.464101615137755)--(13.0,-1.7320508075688776)--(15.0,-1.7320508075688776)--(16.0,0)--(18.0,0.0)--(19.0,1.7320508075688772)--(21.0,1.7320508075688767)); draw((12.0,-6.928203230275509)--(13.0,-5.196152422706632)--(15.0,-5.196152422706632)--(16.0,-3.464101615137755)--(18.0,-3.4641016151377544)--(19.0,-1.7320508075688772)--(21.0,-1.7320508075688767)--(22.0,0)); draw((0.0,-0.0)--(1.0,-1.7320508075688772)--(3.0,-1.7320508075688772)--(4.0,-3.4641016151377544)--(6.0,-3.4641016151377544)--(7.0,-5.196152422706632)--(9.0,-5.196152422706632)--(10.0,-6.928203230275509)--(12.0,-6.928203230275509)); draw((3.0,1.7320508075688772)--(4.0,-0.0)--(6.0,-0.0)--(7.0,-1.7320508075688772)--(9.0,-1.7320508075688772)--(10.0,-3.4641016151377544)--(12.0,-3.464101615137755)--(13.0,-5.196152422706632)--(15.0,-5.196152422706632)); draw((6.0,3.4641016151377544)--(7.0,1.7320508075688772)--(9.0,1.7320508075688772)--(10.0,-0.0)--(12.0,-0.0)--(13.0,-1.7320508075688772)--(15.0,-1.7320508075688776)--(16.0,-3.464101615137755)--(18.0,-3.4641016151377544)); draw((9.0,5.1961524)--(10.0,3.464101)--(12.0,3.46410)--(13.0,1.73205)--(15.0,1.732050)--(16.0,0)--(18.0,-0.0)--(19.0,-1.7320)--(21.0,-1.73205080)); draw((12.0,6.928203)--(13.0,5.1961524)--(15.0,5.1961524)--(16.0,3.464101615)--(18.0,3.4641016)--(19.0,1.7320508)--(21.0,1.732050)--(22.0,0)); dot((0,0)); dot((22,0)); label(\"$A$\",(0,0),WNW); label(\"$B$\",(22,0),E); filldraw((2.0,1.7320508075688772)--(1.6,1.2320508075688772)--(1.75,1.7320508075688772)--(1.6,2.232050807568877)--cycle,black); filldraw((5.0,3.4641016151377544)--(4.6,2.9641016151377544)--(4.75,3.4641016151377544)--(4.6,3.9641016151377544)--cycle,black); filldraw((8.0,5.196152422706632)--(7.6,4.696152422706632)--(7.75,5.196152422706632)--(7.6,5.696152422706632)--cycle,black); filldraw((11.0,6.928203230275509)--(10.6,6.428203230275509)--(10.75,6.928203230275509)--(10.6,7.428203230275509)--cycle,black); filldraw((4.6,0.0)--(5.0,-0.5)--(4.85,0.0)--(5.0,0.5)--cycle,white); filldraw((8.0,1.732050)--(7.6,1.2320)--(7.75,1.73205)--(7.6,2.2320)--cycle,black); filldraw((11.0,3.4641016)--(10.6,2.9641016)--(10.75,3.46410161)--(10.6,3.964101)--cycle,black); filldraw((14.0,5.196152422706632)--(13.6,4.696152422706632)--(13.75,5.196152422706632)--(13.6,5.696152422706632)--cycle,black); filldraw((8.0,-1.732050)--(7.6,-2.232050)--(7.75,-1.7320508)--(7.6,-1.2320)--cycle,black); filldraw((10.6,0.0)--(11,-0.5)--(10.85,0.0)--(11,0.5)--cycle,white); filldraw((14.0,1.7320508075688772)--(13.6,1.2320508075688772)--(13.75,1.7320508075688772)--(13.6,2.232050807568877)--cycle,black); filldraw((17.0,3.464101615137755)--(16.6,2.964101615137755)--(16.75,3.464101615137755)--(16.6,3.964101615137755)--cycle,black); filldraw((11.0,-3.464101615137755)--(10.6,-3.964101615137755)--(10.75,-3.464101615137755)--(10.6,-2.964101615137755)--cycle,black); filldraw((14.0,-1.7320508075688776)--(13.6,-2.2320508075688776)--(13.75,-1.7320508075688776)--(13.6,-1.2320508075688776)--cycle,black); filldraw((16.6,0)--(17,-0.5)--(16.85,0)--(17,0.5)--cycle,white); filldraw((20.0,1.7320508075688772)--(19.6,1.2320508075688772)--(19.75,1.7320508075688772)--(19.6,2.232050807568877)--cycle,black); filldraw((14.0,-5.196152422706632)--(13.6,-5.696152422706632)--(13.75,-5.196152422706632)--(13.6,-4.696152422706632)--cycle,black); filldraw((17.0,-3.464101615137755)--(16.6,-3.964101615137755)--(16.75,-3.464101615137755)--(16.6,-2.964101615137755)--cycle,black); filldraw((20.0,-1.7320508075688772)--(19.6,-2.232050807568877)--(19.75,-1.7320508075688772)--(19.6,-1.2320508075688772)--cycle,black); filldraw((2.0,-1.7320508075688772)--(1.6,-1.2320508075688772)--(1.75,-1.7320508075688772)--(1.6,-2.232050807568877)--cycle,black); filldraw((5.0,-3.4641016)--(4.6,-2.964101)--(4.75,-3.4641)--(4.6,-3.9641016)--cycle,black); filldraw((8.0,-5.1961524)--(7.6,-4.6961524)--(7.75,-5.19615242)--(7.6,-5.696152422)--cycle,black); filldraw((11.0,-6.9282032)--(10.6,-6.4282032)--(10.75,-6.928203)--(10.6,-7.428203)--cycle,black);[/asy]",
+        "Answer": "E"
+    }
+]

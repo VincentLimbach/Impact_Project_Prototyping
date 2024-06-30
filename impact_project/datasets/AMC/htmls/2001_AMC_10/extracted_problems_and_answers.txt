@@ -1,0 +1,59 @@
+0: ['The median of the list $n, n + 3, n + 4, n + 5, n + 6, n + 8, n + 10, n + 12, n + 15$
+is $10$. What is the mean?', 'E']
+
+1: ['A number $x$ is $2$ more than the product of its reciprocal and its additive inverse. In which interval does the number lie?', 'C']
+
+2: ['The sum of two numbers is $S$. Suppose $3$ is added to each number and then each of the resulting numbers is doubled. What is the sum of the final two numbers?', 'E']
+
+3: ['What is the maximum number for the possible points of intersection of a circle and a triangle?', 'E']
+
+4: ['How many of the twelve pentominoes pictured below have at least one line of reflectional symmetry?', 'D']
+
+5: ['Let $P(n)$ and $S(n)$ denote the product and the sum, respectively, of the digits
+of the integer $n$. For example, $P(23) = 6$ and $S(23) = 5$. Suppose $N$ is a
+two-digit number such that $N = P(N)+S(N)$. What is the units digit of $N$?', 'E']
+
+6: ['When the decimal point of a certain positive decimal number is moved four
+places to the right, the new number is four times the reciprocal of the original
+number. What is the original number?', 'C']
+
+7: ['Wanda, Darren, Beatrice, and Chi are tutors in the school math lab. Their
+schedule is as follows: Darren works every third school day, Wanda works
+every fourth school day, Beatrice works every sixth school day, and Chi works
+every seventh school day. Today they are all working in the math lab. In how
+many school days from today will they next be together tutoring in the lab?', 'B']
+
+8: ['The state income tax where Kristin lives is levied at the rate of $p\%$ of the first $\textdollar 28000$ of annual income plus $(p + 2)\%$ of any amount above $\textdollar 28000$. Kristin noticed that the state income tax she paid amounted to $(p + 0.25)\%$ of her annual income. What was her annual income?', 'B']
+
+9: ['If $x$, $y$, and $z$ are positive with $xy = 24$, $xz = 48$, and $yz = 72$, then $x + y + z$ is', 'D']
+
+10: ['Consider the dark square in an array of unit squares, part of which is shown. The ﬁrst ring of squares around this center square contains $8$ unit squares. The second ring contains $16$ unit squares. If we continue this process, the number of unit squares in the $100^\text{th}$ ring is', 'C']
+
+11: ['Suppose that $n$ is the product of three consecutive integers and that $n$ is divisible by $7$. Which of the following is not necessarily a divisor of $n$?', 'D']
+
+12: ['A telephone number has the form $ABC - DEF - GHIJ$, where each letter represents a different digit. The digits in each part of the numbers are in decreasing order; that is, $A > B > C$, $D > E > F$, and $G > H > I > J$. Furthermore, $D$, $E$, and $F$ are consecutive even digits; $G$, $H$, $I$, and $J$ are consecutive odd digits; and $A + B + C = 9$. Find $A$.', 'E']
+
+13: ['A charity sells $140$ benefit tickets for a total of $\textdollar2001$. Some tickets sell for full price (a whole dollar amount), and the rest sells for half price. How much money is raised by the full-price tickets?', 'A']
+
+14: ['A street has parallel curbs $40$ feet apart. A crosswalk bounded by two parallel stripes crosses the street at an angle. The length of the curb between the stripes is $15$ feet and each stripe is $50$ feet long. Find the distance, in feet, between the stripes.', 'C']
+
+15: ['The mean of three numbers is $10$ more than the least of the numbers and $15$ less than the greatest. The median of the three numbers is $5$. What is their sum?', 'D']
+
+16: ['Which of the cones listed below can be formed from a $252^\circ$ sector of a circle of radius $10$ by aligning the two straight sides?', 'C']
+
+17: ['The plane is tiled by congruent squares and congruent pentagons as indicated. The percent of the plane that is enclosed by the pentagons is closest to', 'D']
+
+18: ['Pat wants to buy four donuts from an ample supply of three types of donuts: glazed, chocolate, and powdered. How many different selections are possible?', 'D']
+
+19: ['A regular octagon is formed by cutting an isosceles right triangle from each of the corners of a square with sides of length $2000$. What is the length of each side of the octagon?', 'B']
+
+20: ['A right circular cylinder with its diameter equal to its height is inscribed in a right circular cone. The cone has diameter $10$ and altitude $12$, and the axes of the cylinder and cone coincide. Find the radius of the cylinder.', 'B']
+
+21: ['In the magic square shown, the sums of the numbers in each row, column, and diagonal are the same. Five of these numbers are represented by $v$, $w$, $x$, $y$, and $z$. Find $y + z$.', 'D']
+
+22: ['A box contains exactly five chips, three red and two white. Chips are randomly removed one at a time without replacement until all the red chips are drawn or all the white chips are drawn. What is the probability that the last chip drawn is white?', 'D']
+
+23: ['In trapezoid $ABCD$, $\overline{AB}$ and $\overline{CD}$ are perpendicular to $\overline{AD}$, with $AB+CD=BC$, $AB<CD$, and $AD=7$. What is $AB\cdot CD$?', 'B']
+
+24: ['How many positive integers not exceeding $2001$ are multiples of $3$ or $4$ but not $5$?', 'B']
+

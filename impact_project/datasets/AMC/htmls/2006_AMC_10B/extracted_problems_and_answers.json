@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 1,
+        "Setup": "What is $(-1)^{1} + (-1)^{2} + ... + (-1)^{2006}$\u00a0?",
+        "Options": "$\\mathrm{(A) \\ } -2006\\qquad \\mathrm{(B) \\ } -1\\qquad \\mathrm{(C) \\ } 0\\qquad \\mathrm{(D) \\ } 1\\qquad \\mathrm{(E) \\ } 2006$",
+        "Answer": "C"
+    },
+    {
+        "Index": 2,
+        "Setup": "For real numbers $x$ and $y$, define $x \\mathop{\\spadesuit} y = (x+y)(x-y)$. What is $3 \\mathop{\\spadesuit} (4 \\mathop{\\spadesuit} 5)$?",
+        "Options": "$\\mathrm{(A) \\ } -72\\qquad \\mathrm{(B) \\ } -27\\qquad \\mathrm{(C) \\ } -24\\qquad \\mathrm{(D) \\ } 24\\qquad \\mathrm{(E) \\ } 72$",
+        "Answer": "A"
+    },
+    {
+        "Index": 3,
+        "Setup": "A football game was played between two teams, the Cougars and the Panthers. The two teams scored a total of 34 points, and the Cougars won by a margin of 14 points. How many points did the Panthers score?",
+        "Options": "$\\mathrm{(A) \\ } 10\\qquad \\mathrm{(B) \\ } 14\\qquad \\mathrm{(C) \\ } 17\\qquad \\mathrm{(D) \\ } 20\\qquad \\mathrm{(E) \\ } 24$",
+        "Answer": "A"
+    },
+    {
+        "Index": 4,
+        "Setup": "Circles of diameter 1 inch and 3 inches have the same center. The smaller circle is painted red, and the portion outside the smaller circle and inside the larger circle is painted blue. What is the ratio of the blue-painted area to the red-painted area?",
+        "Options": "2006amc10b04.gif",
+        "Answer": "D"
+    },
+    {
+        "Index": 5,
+        "Setup": "A $2 \\times 3$ rectangle and a $3 \\times 4$ rectangle are contained within a square without overlapping at any point, and the sides of the square are parallel to the sides of the two given rectangles. What is the smallest possible area of the square?",
+        "Options": "$\\mathrm{(A) \\ } 16\\qquad \\mathrm{(B) \\ } 25\\qquad \\mathrm{(C) \\ } 36\\qquad \\mathrm{(D) \\ } 49\\qquad \\mathrm{(E) \\ } 64$",
+        "Answer": "B"
+    },
+    {
+        "Index": 6,
+        "Setup": "A region is bounded by semicircular arcs constructed on the side of a square whose sides measure $\\frac{2}{\\pi}$, as shown. What is the perimeter of this region?",
+        "Options": "[asy] unitsize(1cm); defaultpen(.8);  filldraw( circle( (0,1), 1 ), lightgray, black ); filldraw( circle( (0,-1), 1 ), lightgray, black ); filldraw( circle( (1,0), 1 ), lightgray, black ); filldraw( circle( (-1,0), 1 ), lightgray, black ); filldraw( (-1,-1)--(-1,1)--(1,1)--(1,-1)--cycle, lightgray, black ); [/asy]",
+        "Answer": "D"
+    },
+    {
+        "Index": 7,
+        "Setup": "Which of the following is equivalent to $\\sqrt{\\frac{x}{1-\\frac{x-1}{x}}}$ when $x < 0$?",
+        "Options": "$\\mathrm{(A) \\ } -x\\qquad \\mathrm{(B) \\ } x\\qquad \\mathrm{(C) \\ } 1\\qquad \\mathrm{(D) \\ } \\sqrt{\\frac{x}{2}}\\qquad \\mathrm{(E) \\ } x\\sqrt{-1}$",
+        "Answer": "A"
+    },
+    {
+        "Index": 8,
+        "Setup": "A square of area 40 is inscribed in a semicircle as shown. What is the area of the semicircle?",
+        "Options": "[asy] unitsize(1cm); defaultpen(.8);  draw( (-sqrt(5),0) -- (sqrt(5),0), dashed ); draw( (-1,0)--(-1,2)--(1,2)--(1,0)--cycle ); draw( arc( (0,0), sqrt(5), 0, 180 ) ); [/asy]",
+        "Answer": "B"
+    },
+    {
+        "Index": 9,
+        "Setup": "Francesca uses 100 grams of lemon juice, 100 grams of sugar, and 400 grams of water to make lemonade. There are 25 calories in 100 grams of lemon juice and 386 calories in 100 grams of sugar. Water contains no calories. How many calories are in 200 grams of her lemonade?",
+        "Options": "$\\mathrm{(A) \\ } 129\\qquad \\mathrm{(B) \\ } 137\\qquad \\mathrm{(C) \\ } 174\\qquad \\mathrm{(D) \\ } 233\\qquad \\mathrm{(E) \\ } 411$",
+        "Answer": "B"
+    },
+    {
+        "Index": 10,
+        "Setup": "In a triangle with integer side lengths, one side is three times as long as a second side, and the length of the third side is 15. What is the greatest possible perimeter of the triangle?",
+        "Options": "$\\mathrm{(A) \\ } 43\\qquad \\mathrm{(B) \\ } 44\\qquad \\mathrm{(C) \\ } 45\\qquad \\mathrm{(D) \\ } 46\\qquad \\mathrm{(E) \\ } 47$",
+        "Answer": "A"
+    },
+    {
+        "Index": 11,
+        "Setup": "What is the tens digit in the sum $7!+8!+9!+...+2006!$",
+        "Options": "$\\mathrm{(A) \\ } 1\\qquad \\mathrm{(B) \\ } 3\\qquad \\mathrm{(C) \\ } 4\\qquad \\mathrm{(D) \\ } 6\\qquad \\mathrm{(E) \\ } 9$",
+        "Answer": "C"
+    },
+    {
+        "Index": 12,
+        "Setup": "The lines $x=\\frac{1}{4}y+a$ and $y=\\frac{1}{4}x+b$ intersect at the point $(1,2)$. What is $a+b$?",
+        "Options": "$\\mathrm{(A) \\ } 0\\qquad \\mathrm{(B) \\ } \\frac{3}{4}\\qquad \\mathrm{(C) \\ } 1\\qquad \\mathrm{(D) \\ } 2\\qquad \\mathrm{(E) \\ } \\frac{9}{4}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 13,
+        "Setup": "Joe and JoAnn each bought 12 ounces of coffee in a 16 ounce cup. Joe drank 2 ounces of his coffee and then added 2 ounces of cream. JoAnn added 2 ounces of cream, stirred the coffee well, and then drank 2 ounces. What is the resulting ratio of the amount of cream in Joe's coffee to that in JoAnn's coffee?",
+        "Options": "$\\mathrm{(A) \\ } \\frac{6}{7}\\qquad \\mathrm{(B) \\ } \\frac{13}{14}\\qquad \\mathrm{(C) \\ }1 \\qquad \\mathrm{(D) \\ } \\frac{14}{13}\\qquad \\mathrm{(E) \\ } \\frac{7}{6}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 14,
+        "Setup": "Let $a$ and $b$ be the roots of the equation $x^2-mx+2=0$. Suppose that $a+\\frac{1}{b}$ and $b+\\frac{1}{a}$ are the roots of the equation $x^2-px+q=0$. What is $q$?",
+        "Options": "$\\mathrm{(A) \\ } \\frac{5}{2}\\qquad \\mathrm{(B) \\ } \\frac{7}{2}\\qquad \\mathrm{(C) \\ } 4\\qquad \\mathrm{(D) \\ } \\frac{9}{2}\\qquad \\mathrm{(E) \\ } 8$",
+        "Answer": "D"
+    },
+    {
+        "Index": 15,
+        "Setup": "Rhombus $ABCD$ is similar to rhombus $BFDE$. The area of rhombus $ABCD$ is $24$ and $\\angle BAD = 60^\\circ$. What is the area of rhombus $BFDE$?",
+        "Options": "[asy] unitsize(3cm); defaultpen(.8);  pair A=(0,0), B=(1,0), D=dir(60), C=B+D;  draw(A--B--C--D--cycle); pair Ep = intersectionpoint( B -- (B+10*dir(150)), D -- (D+10*dir(270)) ); pair F = intersectionpoint( B -- (B+10*dir(90)), D -- (D+10*dir(330)) );  draw(B--Ep--D--F--cycle);  label(\"$A$\",A,SW); label(\"$B$\",B,SE); label(\"$C$\",C,NE); label(\"$D$\",D,NW); label(\"$E$\",Ep,SW); label(\"$F$\",F,NE); [/asy]",
+        "Answer": "C"
+    },
+    {
+        "Index": 16,
+        "Setup": "Leap Day, February 29, 2004, occurred on a Sunday. On what day of the week will Leap Day, February 29, 2020, occur?",
+        "Options": "$\\mathrm{(A) \\ } \\textrm{Tuesday} \\qquad \\mathrm{(B) \\ } \\textrm{Wednesday} \\qquad \\mathrm{(C) \\ } \\textrm{Thursday} \\qquad \\mathrm{(D) \\ } \\textrm{Friday} \\qquad \\mathrm{(E) \\ } \\textrm{Saturday}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 17,
+        "Setup": "Bob and Alice each have a bag that contains one ball of each of the colors blue, green, orange, red, and violet. Alice randomly selects one ball from her bag and puts it into Bob's bag. Bob then randomly selects one ball from his bag and puts it into Alice's bag. What is the probability that after this process the contents of the two bags are the same?",
+        "Options": "$\\mathrm{(A) \\ } \\frac{1}{10}\\qquad \\mathrm{(B) \\ } \\frac{1}{6}\\qquad \\mathrm{(C) \\ } \\frac{1}{5}\\qquad \\mathrm{(D) \\ } \\frac{1}{3}\\qquad \\mathrm{(E) \\ } \\frac{1}{2}$",
+        "Answer": "D"
+    },
+    {
+        "Index": 18,
+        "Setup": "Let $a_1 , a_2 , ...$ be a sequence for which",
+        "Options": "$a_1=2$ , $a_2=3$, and $a_n=\\frac{a_{n-1}}{a_{n-2}}$ for each positive integer $n \\ge 3$.",
+        "Answer": "E"
+    },
+    {
+        "Index": 19,
+        "Setup": "A circle of radius $2$ is centered at $O$. Square $OABC$ has side length $1$. Sides $AB$ and $CB$ are extended past $B$ to meet the circle at $D$ and $E$, respectively. What is the area of the shaded region in the figure, which is bounded by $BD$, $BE$, and the minor arc connecting $D$ and $E$?",
+        "Options": "[asy] unitsize(1.5cm); defaultpen(.8);  draw( circle( (0,0), 2 ) ); draw( (-2,0) -- (2,0) ); draw( (0,-2) -- (0,2) );  pair D = intersectionpoint( circle( (0,0), 2 ), (1,0) -- (1,2) ); pair Ep = intersectionpoint( circle( (0,0), 2 ), (0,1) -- (2,1) ); draw( (1,0) -- D ); draw( (0,1) -- Ep );  filldraw( (1,1) -- arc( (0,0),Ep,D ) -- cycle, mediumgray, black );  label(\"$O$\",(0,0),SW); label(\"$A$\",(1,0),S); label(\"$C$\",(0,1),W); label(\"$B$\",(1,1),SW); label(\"$D$\",D,N); label(\"$E$\",Ep,E); [/asy]",
+        "Answer": "A"
+    },
+    {
+        "Index": 20,
+        "Setup": "In rectangle $ABCD$, we have $A=(6,-22)$, $B=(2006,178)$, $D=(8,y)$, for some integer $y$. What is the area of rectangle $ABCD$?",
+        "Options": "$\\mathrm{(A) \\ } 4000\\qquad \\mathrm{(B) \\ } 4040\\qquad \\mathrm{(C) \\ } 4400\\qquad \\mathrm{(D) \\ } 40,000\\qquad \\mathrm{(E) \\ } 40,400$",
+        "Answer": "E"
+    },
+    {
+        "Index": 21,
+        "Setup": "For a particular peculiar pair of dice, the probabilities of rolling $1$, $2$, $3$, $4$, $5$, and $6$, on each die are in the ratio $1:2:3:4:5:6$. What is the probability of rolling a total of $7$ on the two dice?",
+        "Options": "$\\mathrm{(A) \\ } \\frac{4}{63}\\qquad \\mathrm{(B) \\ } \\frac{1}{8}\\qquad \\mathrm{(C) \\ } \\frac{8}{63}\\qquad \\mathrm{(D) \\ } \\frac{1}{6}\\qquad \\mathrm{(E) \\ } \\frac{2}{7}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 22,
+        "Setup": "Elmo makes $N$ sandwiches for a fundraiser. For each sandwich he uses $B$ globs of peanut butter at $4\\cent$ per glob and $J$ blobs of jam at $5\\cent$ per blob. The cost of the peanut butter and jam to make all the sandwiches is $$2.53$. Assume that $B$, $J$, and $N$ are positive integers with $N>1$. What is the cost of the jam Elmo uses to make the sandwiches?",
+        "Options": "$\\mathrm{(A) \\ } 1.05\\qquad \\mathrm{(B) \\ } 1.25\\qquad \\mathrm{(C) \\ } 1.45\\qquad \\mathrm{(D) \\ } 1.65\\qquad \\mathrm{(E) \\ } 1.85$",
+        "Answer": "D"
+    },
+    {
+        "Index": 23,
+        "Setup": "A triangle is partitioned into three triangles and a quadrilateral by drawing two lines from vertices to their opposite sides. The areas of the three triangles are 3, 7, and 7 as shown. What is the area of the shaded quadrilateral?",
+        "Options": "[asy] unitsize(1.5cm); defaultpen(.8);  pair A = (0,0), B = (3,0), C = (1.4, 2), D = B + 0.4*(C-B), Ep = A + 0.3*(C-A); pair F = intersectionpoint( A--D, B--Ep );  draw( A -- B -- C -- cycle ); draw( A -- D ); draw( B -- Ep ); filldraw( D -- F -- Ep -- C -- cycle, mediumgray, black );  label(\"$7$\",(1.25,0.2)); label(\"$7$\",(2.2,0.45)); label(\"$3$\",(0.45,0.35)); [/asy]",
+        "Answer": "D"
+    },
+    {
+        "Index": 24,
+        "Setup": "Circles with centers $O$ and $P$ have radii $2$ and $4$, respectively, and are externally tangent. Points $A$ and $B$ on the circle with center $O$ and points $C$ and $D$ on the circle with center $P$ are such that $AD$ and $BC$ are common external tangents to the circles. What is the area of the concave hexagon $AOBCPD$?",
+        "Options": "[asy] unitsize(.7cm); defaultpen(.8);  pair O = (0,0), P = (6,0), Q = (-6,0); pair A = intersectionpoint( arc( (-3,0), (0,0), (-6,0) ), circle( O, 2 ) ); pair B = (A.x, -A.y ); pair D = Q + 2*(A-Q); pair C = Q + 2*(B-Q);  draw( circle(O,2) ); draw( circle(P,4) ); draw( (Q + 0.8*(A-Q)) -- ( Q + 2.3*(A-Q) ) ); draw( (Q + 0.8*(B-Q)) -- ( Q + 2.3*(B-Q) ) ); draw( A -- O -- B ); draw( C -- P -- D ); draw( O -- P );  label(\"$O$\",O,W); label(\"$P$\",P,E);  label(\"$A$\",A,NNW); label(\"$B$\",B,SSW);  label(\"$D$\",D,NNW); label(\"$C$\",C,SSW); [/asy]",
+        "Answer": "B"
+    },
+    {
+        "Index": 25,
+        "Setup": "Mr. Jones has eight children of different ages. On a family trip his oldest child, who is 9, spots a license plate with a 4-digit number in which each of two digits appears two times. \"Look, daddy!!!!\" she exclaims. \"That number is evenly divisible by the age of each of us kids!\" \"That's right,\" replies Mr. Jones, \"and the last two digits just happen to be my age.\" Which of the following is not the age of one of Mr. Jones's children?",
+        "Options": "$\\mathrm{(A) \\ } 4\\qquad \\mathrm{(B) \\ } 5\\qquad \\mathrm{(C) \\ } 6\\qquad \\mathrm{(D) \\ } 7\\qquad \\mathrm{(E) \\ } 8$",
+        "Answer": "B"
+    }
+]

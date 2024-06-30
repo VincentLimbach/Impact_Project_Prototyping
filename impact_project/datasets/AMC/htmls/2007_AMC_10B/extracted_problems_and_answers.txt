@@ -1,0 +1,53 @@
+0: ['Isabella's house has $3$ bedrooms. Each bedroom is $12$ feet long, $10$ feet wide, and $8$ feet high. Isabella must paint the walls of all the bedrooms. Doorways and windows, which will not be painted, occupy $60$ square feet in each bedroom. How many square feet of walls must be painted?', 'E']
+
+1: ['Define the operation $\star$ by $a \star b = (a+b)b.$ What is $(3 \star 5) - (5 \star 3)?$', 'E']
+
+2: ['A college student drove his compact car $120$ miles home for the weekend and averaged $30$ miles per gallon. On the return trip the student drove his parents' SUV and averaged only $20$ miles per gallon. What was the average gas mileage, in miles per gallon, for the round trip?', 'B']
+
+3: ['The point $O$ is the center of the circle circumscribed about $\triangle ABC,$ with $\angle BOC=120^\circ$ and $\angle AOB=140^\circ$. What is the degree measure of $\angle ABC?$', 'D']
+
+4: ['In a certain land, all Arogs are Brafs, all Crups are Brafs, all Dramps are Arogs, and all Crups are Dramps. Which of the following statements is implied by these facts?', 'D']
+
+5: ['The $2007$ $\text{AMC}$ $10$ will be scored by awarding $6$ points for each correct response, $0$ points for each incorrect response, and $1.5$ points for each problem left unanswered. After looking over the $25$ problems, Sarah has decided to attempt the first $22$ and leave only the last $3$ unanswered. How many of the first $22$ problems must she solve correctly in order to score at least $100$ points?', 'D']
+
+6: ['All sides of the convex pentagon $ABCDE$ are of equal length, and $\angle A= \angle B = 90^\circ.$ What is the degree measure of $\angle E?$', 'E']
+
+7: ['On the trip home from the meeting where this AMC10 was constructed, the Contest Chair noted that his airport parking receipt had digits of the form $bbcac,$ where $0 \le a < b < c \le 9,$ and $b$ was the average of $a$ and $c.$ How many different five-digit numbers satisfy all these properties?', 'D']
+
+8: ['A cryptographic code is designed as follows. The first time a letter appears in a given message it is replaced by the letter that is $1$ place to its right in the alphabet (assuming that the letter $A$ is one place to the right of the letter $Z$). The second time this same letter appears in the given message, it is replaced by the letter that is $1+2$ places to the right, the third time it is replaced by the letter that is $1+2+3$ places to the right, and so on. For example, with this code the word "banana" becomes "cbodqg". What letter will replace the last letter $s$ in the message
+\[\text{"Lee's sis is a Mississippi miss, Chriss!"?}\]', 'D']
+
+9: ['Two points $B$ and $C$ are in a plane. Let $S$ be the set of all points $A$ in the plane for which $\triangle ABC$ has area $1.$ Which of the following describes $S?$', 'A']
+
+10: ['A circle passes through the three vertices of an isosceles triangle that has two sides of length $3$ and a base of length $2.$ What is the area of this circle?', 'C']
+
+11: ['Tom's age is $T$ years, which is also the sum of the ages of his three children. His age $N$ years ago was twice the sum of their ages then. What is $T/N?$', 'D']
+
+12: ['Two circles of radius $2$ are centered at $(2,0)$ and at $(0,2).$ What is the area of the intersection of the interiors of the two circles?', 'D']
+
+13: ['Some boys and girls are having a car wash to raise money for a class trip to China. Initially $40\%$ of the group are girls. Shortly thereafter two girls leave and two boys arrive, and then $30\%$ of the group are girls. How many girls were initially in the group?', 'C']
+
+14: ['The angles of quadrilateral $ABCD$ satisfy $\angle A=2 \angle B=3 \angle C=4 \angle D.$ What is the degree measure of $\angle A,$ rounded to the nearest whole number?', 'D']
+
+15: ['A teacher gave a test to a class in which $10\%$ of the students are juniors and $90\%$ are seniors. The average score on the test was $84.$ The juniors all received the same score, and the average score of the seniors was $83.$ What score did each of the juniors receive on the test?', 'C']
+
+16: ['Point $P$ is inside equilateral $\triangle ABC.$ Points $Q, R,$ and $S$ are the feet of the perpendiculars from $P$ to $\overline{AB}, \overline{BC},$ and $\overline{CA},$ respectively. Given that $PQ=1, PR=2,$ and $PS=3,$ what is $AB?$', 'D']
+
+17: ['A circle of radius $1$ is surrounded by $4$ circles of radius $r$ as shown. What is $r$?', 'B']
+
+18: ['The wheel shown is spun twice, and the randomly determined numbers opposite the pointer are recorded. The first number is divided by $4,$ and the second number is divided by $5.$ The first remainder designates a column, and the second remainder designates a row on the checkerboard shown. What is the probability that the pair of numbers designates a shaded square?', 'C']
+
+19: ['A set of $25$ square blocks is arranged into a $5 \times 5$ square. How many different combinations of $3$ blocks can be selected from that set so that no two are in the same row or column?', 'C']
+
+20: ['Right $\triangle ABC$ has $AB=3, BC=4,$ and $AC=5.$ Square $XYZW$ is inscribed in $\triangle ABC$ with $X$ and $Y$ on $\overline{AC}, W$ on $\overline{AB},$ and $Z$ on $\overline{BC}.$ What is the side length of the square?', 'B']
+
+21: ['A player chooses one of the numbers $1$ through $4$. After the choice has been made, two regular four-sided (tetrahedral) dice are rolled, with the sides of the dice numbered $1$ through $4.$ If the number chosen appears on the bottom of exactly one die after it has been rolled, then the player wins $1$ dollar. If the number chosen appears on the bottom of both of the dice, then the player wins $2$ dollars. If the number chosen does not appear on the bottom of either of the dice, the player loses $1$ dollar. What is the expected return to the player, in dollars, for one roll of the dice?', 'B']
+
+22: ['A pyramid with a square base is cut by a plane that is parallel to its base and $2$ units from the base. The surface area of the smaller pyramid that is cut from the top is half the surface area of the original pyramid. What is the altitude of the original pyramid?', 'E']
+
+23: ['Let $n$ denote the smallest positive integer that is divisible by both $4$ and $9,$ and whose base-$10$ representation consists of only $4$'s and $9$'s, with at least one of each. What are the last four digits of $n?$', 'C']
+
+24: ['How many pairs of positive integers $(a,b)$ are there such that $a$ and $b$ have no common factors greater than $1$ and
+\[\frac{a}{b} + \frac{14b}{9a}\]
+is an integer?', 'A']
+

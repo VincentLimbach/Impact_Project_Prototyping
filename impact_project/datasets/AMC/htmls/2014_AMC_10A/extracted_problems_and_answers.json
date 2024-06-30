@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 1,
+        "Setup": "What is $10 \\cdot \\left(\\tfrac{1}{2} + \\tfrac{1}{5} + \\tfrac{1}{10}\\right)^{-1}?$",
+        "Options": "$\\textbf{(A)}\\ 3\\qquad\\textbf{(B)}\\ 8\\qquad\\textbf{(C)}\\ \\frac{25}{2}\\qquad\\textbf{(D)}\\ \\frac{170}{3}\\qquad\\textbf{(E)}\\ 170$",
+        "Answer": "C"
+    },
+    {
+        "Index": 2,
+        "Setup": "Roy's cat eats $\\frac{1}{3}$ of a can of cat food every morning and $\\frac{1}{4}$ of a can of cat food every evening. Before feeding his cat on Monday morning, Roy opened a box containing $6$ cans of cat food. On what day of the week did the cat finish eating all the cat food in the box?",
+        "Options": "$\\textbf{(A)}\\ \\text{Tuesday}\\qquad\\textbf{(B)}\\ \\text{Wednesday}\\qquad\\textbf{(C)}\\ \\text{Thursday}\\qquad\\textbf{(D)}\\ \\text{Friday}\\qquad\\textbf{(E)}\\ \\text{Saturday}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 3,
+        "Setup": "Bridget bakes 48 loaves of bread for her bakery. She sells half of them in the morning for $\\textdollar 2.50$ each. In the afternoon she sells two thirds of what she has left, and because they are not fresh, she charges only half price. In the late afternoon she sells the remaining loaves at a dollar each. Each loaf costs $\\textdollar 0.75$ for her to make. In dollars, what is her profit for the day?",
+        "Options": "$\\textbf{(A)}\\ 24\\qquad\\textbf{(B)}\\ 36\\qquad\\textbf{(C)}\\ 44\\qquad\\textbf{(D)}\\ 48\\qquad\\textbf{(E)}\\ 52$",
+        "Answer": "E"
+    },
+    {
+        "Index": 4,
+        "Setup": "Walking down Jane Street, Ralph passed four houses in a row, each painted a different color. He passed the orange house before the red house, and he passed the blue house before the yellow house. The blue house was not next to the yellow house. How many orderings of the colored houses are possible?",
+        "Options": "$\\textbf{(A)}\\ 2\\qquad\\textbf{(B)}\\ 3\\qquad\\textbf{(C)}\\ 4\\qquad\\textbf{(D)}\\ 5\\qquad\\textbf{(E)}\\ 6$",
+        "Answer": "B"
+    },
+    {
+        "Index": 5,
+        "Setup": "On an algebra quiz, $10\\%$ of the students scored $70$ points, $35\\%$ scored $80$ points, $30\\%$ scored $90$ points, and the rest scored $100$ points. What is the difference between the mean and median score of the students' scores on this quiz?",
+        "Options": "$\\textbf{(A)}\\ 1\\qquad\\textbf{(B)}\\ 2\\qquad\\textbf{(C)}\\ 3\\qquad\\textbf{(D)}\\ 4\\qquad\\textbf{(E)}\\ 5$",
+        "Answer": "C"
+    },
+    {
+        "Index": 6,
+        "Setup": "Suppose that $a$ cows give $b$ gallons of milk in $c$ days. At this rate, how many gallons of milk will $d$ cows give in $e$ days?",
+        "Options": "$\\textbf{(A)}\\ \\frac{bde}{ac}\\qquad\\textbf{(B)}\\ \\frac{ac}{bde}\\qquad\\textbf{(C)}\\ \\frac{abde}{c}\\qquad\\textbf{(D)}\\ \\frac{bcde}{a}\\qquad\\textbf{(E)}\\ \\frac{abc}{de}$",
+        "Answer": "A"
+    },
+    {
+        "Index": 7,
+        "Setup": "Nonzero real numbers $x$, $y$, $a$, and $b$ satisfy $x < a$ and $y < b$. How many of the following inequalities must be true?",
+        "Options": "$\\textbf{(I)}\\ x+y < a+b\\qquad$",
+        "Answer": "B"
+    },
+    {
+        "Index": 8,
+        "Setup": "Which of the following numbers is a perfect square?",
+        "Options": "$\\textbf{(A)}\\ \\dfrac{14!15!}2\\qquad\\textbf{(B)}\\ \\dfrac{15!16!}2\\qquad\\textbf{(C)}\\ \\dfrac{16!17!}2\\qquad\\textbf{(D)}\\ \\dfrac{17!18!}2\\qquad\\textbf{(E)}\\ \\dfrac{18!19!}2$",
+        "Answer": "D"
+    },
+    {
+        "Index": 9,
+        "Setup": "The two legs of a right triangle, which are altitudes, have lengths $2\\sqrt3$ and $6$. How long is the third altitude of the triangle?",
+        "Options": "$\\textbf{(A)}\\ 1\\qquad\\textbf{(B)}\\ 2\\qquad\\textbf{(C)}\\ 3\\qquad\\textbf{(D)}\\ 4\\qquad\\textbf{(E)}\\ 5$",
+        "Answer": "C"
+    },
+    {
+        "Index": 10,
+        "Setup": "Five positive consecutive integers starting with $a$ have average $b$. What is the average of $5$ consecutive integers that start with $b$?",
+        "Options": "$\\textbf{(A)}\\ a+3\\qquad\\textbf{(B)}\\ a+4\\qquad\\textbf{(C)}\\ a+5\\qquad\\textbf{(D)}\\ a+6\\qquad\\textbf{(E)}\\ a+7$",
+        "Answer": "B"
+    },
+    {
+        "Index": 11,
+        "Setup": "A customer who intends to purchase an appliance has three coupons, only one of which may be used:",
+        "Options": "Coupon 1: $10\\%$ off the listed price if the listed price is at least $\\textdollar50$",
+        "Answer": "C"
+    },
+    {
+        "Index": 12,
+        "Setup": "A regular hexagon has side length 6. Congruent arcs with radius 3 are drawn with the center at each of the vertices, creating circular sectors as shown. The region inside the hexagon but outside the sectors is shaded as shown. What is the area of the shaded region?",
+        "Options": "[asy] size(125); defaultpen(linewidth(0.8)); path hexagon=(2*dir(0))--(2*dir(60))--(2*dir(120))--(2*dir(180))--(2*dir(240))--(2*dir(300))--cycle; fill(hexagon,lightgrey); for(int i=0;i<=5;i=i+1) { path arc=2*dir(60*i)--arc(2*dir(60*i),1,120+60*i,240+60*i)--cycle; unfill(arc); draw(arc); } draw(hexagon,linewidth(1.8));[/asy]",
+        "Answer": "C"
+    },
+    {
+        "Index": 13,
+        "Setup": "Equilateral $\\triangle ABC$ has side length $1$, and squares $ABDE$, $BCHI$, $CAFG$ lie outside the triangle. What is the area of hexagon $DEFGHI$?",
+        "Options": "[asy] import graph; size(6cm); pen dps = linewidth(0.7) + fontsize(8); defaultpen(dps); pair B = (0,0); pair C = (1,0); pair A = rotate(60,B)*C;  pair E = rotate(270,A)*B; pair D = rotate(270,E)*A;  pair F = rotate(90,A)*C; pair G = rotate(90,F)*A;  pair I = rotate(270,B)*C; pair H = rotate(270,I)*B;  draw(A--B--C--cycle); draw(A--E--D--B); draw(A--F--G--C); draw(B--I--H--C);  draw(E--F); draw(D--I); draw(I--H); draw(H--G);  label(\"$A$\",A,N); label(\"$B$\",B,SW); label(\"$C$\",C,SE); label(\"$D$\",D,W); label(\"$E$\",E,W); label(\"$F$\",F,E); label(\"$G$\",G,E); label(\"$H$\",H,SE); label(\"$I$\",I,SW); [/asy]",
+        "Answer": "C"
+    },
+    {
+        "Index": 14,
+        "Setup": "The $y$-intercepts, $P$ and $Q$, of two perpendicular lines intersecting at the point $A(6,8)$ have a sum of zero. What is the area of $\\triangle APQ$?",
+        "Options": "$\\textbf{(A)}\\ 45\\qquad\\textbf{(B)}\\ 48\\qquad\\textbf{(C)}\\ 54\\qquad\\textbf{(D)}\\ 60\\qquad\\textbf{(E)}\\ 72$",
+        "Answer": "D"
+    },
+    {
+        "Index": 15,
+        "Setup": "David drives from his home to the airport to catch a flight.  He drives $35$ miles in the first hour, but realizes that he will be $1$ hour late if he continues at this speed.  He increases his speed by $15$ miles per hour for the rest of the way to the airport and arrives $30$ minutes early.  How many miles is the airport from his home?",
+        "Options": "$\\textbf{(A) }140\\qquad \\textbf{(B) }175\\qquad \\textbf{(C) }210\\qquad \\textbf{(D) }245\\qquad \\textbf{(E) }280\\qquad$",
+        "Answer": "C"
+    },
+    {
+        "Index": 16,
+        "Setup": "In rectangle $ABCD$, $AB=1$, $BC=2$, and points $E$, $F$, and $G$ are midpoints of $\\overline{BC}$, $\\overline{CD}$, and $\\overline{AD}$, respectively. Point $H$ is the midpoint of $\\overline{GE}$. What is the area of the shaded region?",
+        "Options": "[asy] import graph; size(9cm); pen dps = fontsize(10); defaultpen(dps); pair D = (0,0); pair F = (1/2,0); pair C = (1,0); pair G = (0,1); pair E = (1,1); pair A = (0,2); pair B = (1,2); pair H = (1/2,1);  // do not look pair X = (1/3,2/3); pair Y = (2/3,2/3);  draw(A--B--C--D--cycle); draw(G--E); draw(A--F--B); draw(D--H--C); filldraw(H--X--F--Y--cycle,grey);  label(\"$A$\",A,NW); label(\"$B$\",B,NE); label(\"$C$\",C,SE); label(\"$D$\",D,SW); label(\"$E$\",E,E); label(\"$F$\",F,S); label(\"$G$\",G,W); label(\"$H$\",H,N);  label(\"$\\frac12$\",(0.25,0),S); label(\"$\\frac12$\",(0.75,0),S); label(\"$1$\",(1,0.5),E); label(\"$1$\",(1,1.5),E); [/asy]",
+        "Answer": "E"
+    },
+    {
+        "Index": 17,
+        "Setup": "Three fair six-sided dice are rolled. What is the probability that the values shown on two of the dice sum to the value shown on the remaining die?",
+        "Options": "$\\textbf{(A)}\\ \\dfrac16\\qquad\\textbf{(B)}\\ \\dfrac{13}{72}\\qquad\\textbf{(C)}\\ \\dfrac7{36}\\qquad\\textbf{(D)}\\ \\dfrac5{24}\\qquad\\textbf{(E)}\\ \\dfrac29$",
+        "Answer": "D"
+    },
+    {
+        "Index": 18,
+        "Setup": "A square in the coordinate plane has vertices whose $y$-coordinates are $0$, $1$, $4$, and $5$. What is the area of the square?",
+        "Options": "$\\textbf{(A)}\\ 16\\qquad\\textbf{(B)}\\ 17\\qquad\\textbf{(C)}\\ 25\\qquad\\textbf{(D)}\\ 26\\qquad\\textbf{(E)}\\ 27$",
+        "Answer": "B"
+    },
+    {
+        "Index": 19,
+        "Setup": "Four cubes with edge lengths $1$, $2$, $3$, and $4$ are stacked as shown. What is the length of the portion of $\\overline{XY}$ contained in the cube with edge length $3$?",
+        "Options": "$\\textbf{(A)}\\ \\dfrac{3\\sqrt{33}}5\\qquad\\textbf{(B)}\\ 2\\sqrt3\\qquad\\textbf{(C)}\\ \\dfrac{2\\sqrt{33}}3\\qquad\\textbf{(D)}\\ 4\\qquad\\textbf{(E)}\\ 3\\sqrt2$",
+        "Answer": "A"
+    },
+    {
+        "Index": 20,
+        "Setup": "The product $(8)(888\\dots8)$, where the second factor has $k$ digits, is an integer whose digits have a sum of $1000$.  What is $k$?",
+        "Options": "$\\textbf{(A)}\\ 901\\qquad\\textbf{(B)}\\ 911\\qquad\\textbf{(C)}\\ 919\\qquad\\textbf{(D)}\\ 991\\qquad\\textbf{(E)}\\ 999$",
+        "Answer": "D"
+    },
+    {
+        "Index": 21,
+        "Setup": "Positive integers $a$ and $b$ are such that the graphs of $y=ax+5$ and $y=3x+b$ intersect the $x$-axis at the same point. What is the sum of all possible $x$-coordinates of these points of intersection?",
+        "Options": "$\\textbf{(A)}\\ {-20}\\qquad\\textbf{(B)}\\ {-18}\\qquad\\textbf{(C)}\\ {-15}\\qquad\\textbf{(D)}\\ {-12}\\qquad\\textbf{(E)}\\ {-8}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 22,
+        "Setup": "In rectangle $ABCD$, $AB=20$ and $BC=10$. Let $E$ be a point on $\\overline{CD}$ such that $\\angle CBE=15^\\circ$. What is $AE$?",
+        "Options": "$\\textbf{(A)}\\ \\dfrac{20\\sqrt3}3\\qquad\\textbf{(B)}\\ 10\\sqrt3\\qquad\\textbf{(C)}\\ 18\\qquad\\textbf{(D)}\\ 11\\sqrt3\\qquad\\textbf{(E)}\\ 20$",
+        "Answer": "E"
+    },
+    {
+        "Index": 23,
+        "Setup": "A rectangular piece of paper whose length is $\\sqrt3$ times the width has area $A$. The paper is divided into three equal sections along the opposite lengths, and then a dotted line is drawn from the first divider to the second divider on the opposite side as shown. The paper is then folded flat along this dotted line to create a new shape with area $B$. What is the ratio $B:A$?",
+        "Options": "[asy] import graph; size(6cm);  real L = 0.05;  pair A = (0,0); pair B = (sqrt(3),0); pair C = (sqrt(3),1); pair D = (0,1);  pair X1 = (sqrt(3)/3,0); pair X2= (2*sqrt(3)/3,0); pair Y1 = (2*sqrt(3)/3,1); pair Y2 = (sqrt(3)/3,1);  dot(X1); dot(Y1);  draw(A--B--C--D--cycle, linewidth(2)); draw(X1--Y1,dashed);  draw(X2--(2*sqrt(3)/3,L)); draw(Y2--(sqrt(3)/3,1-L)); [/asy]",
+        "Answer": "C"
+    },
+    {
+        "Index": 24,
+        "Setup": "A sequence of natural numbers is constructed by listing the first $4$, then skipping one, listing the next $5$, skipping $2$, listing $6$, skipping $3$, and, on the $n$th iteration, listing $n+3$ and skipping $n$. The sequence begins $1,2,3,4,6,7,8,9,10,13$. What is the $500,000^{\\text{th}}$ number in the sequence?",
+        "Options": "$\\textbf{(A)}\\ 996,506\\qquad\\textbf{(B)}\\ 996,507\\qquad\\textbf{(C)}\\ 996,508\\qquad\\textbf{(D)}\\ 996,509\\qquad\\textbf{(E)}\\ 996,510$",
+        "Answer": "A"
+    },
+    {
+        "Index": 25,
+        "Setup": "The number $5^{867}$ is between $2^{2013}$ and $2^{2014}$.  How many pairs of integers $(m,n)$ are there such that $1\\leq m\\leq 2012$ and \\[5^n<2^m<2^{m+2}<5^{n+1}?\\]",
+        "Options": "$\\textbf{(A) }278\\qquad\\textbf{(B) }279\\qquad\\textbf{(C) }280\\qquad\\textbf{(D) }281\\qquad\\textbf{(E) }282\\qquad$",
+        "Answer": "B"
+    }
+]

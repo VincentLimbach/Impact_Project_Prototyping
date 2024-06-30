@@ -1,0 +1,51 @@
+0: ['The ratio $\frac{10^{2000}+10^{2002}}{10^{2001}+10^{2001}}$ is closest to which of the following numbers?', 'D']
+
+1: ['Given that $a, b,$ and $c$ are non-zero real numbers, define $(a, b, c) = \frac{a}{b} + \frac{b}{c} + \frac{c}{a}$. Find $(2, 12, 9)$.', 'C']
+
+2: ['According to the standard convention for exponentiation,', 'B']
+
+3: ['For how many positive integers $m$ is there at least 1 positive integer $n$ such that $mn \le m + n$?', 'E']
+
+4: ['Each of the small circles in the figure has radius one. The innermost circle is tangent to the six circles that surround it, and each of those circles is tangent to the large circle and to its small-circle neighbors. Find the area of the shaded region.', 'C']
+
+5: ['From a starting number, Cindy was supposed to subtract 3, and then divide by 9, but instead, Cindy subtracted 9, then divided by 3, getting 43. If the correct instructions were followed, what would the result be?', 'A']
+
+6: ['A $45^\circ$ arc of circle A is equal in length to a $30^\circ$ arc of circle B. What is the ratio of circle A's area and circle B's area?', 'A']
+
+7: ['Betsy designed a flag using blue triangles, small white squares, and a red center square, as shown. Let $B$ be the total area of the blue triangles, $W$ the total area of the white squares, and $R$ the area of the red square. Which of the following is correct?', 'A']
+
+8: ['There are 3 numbers A, B, and C, such that $1001C - 2002A = 4004$, and $1001B + 3003A = 5005$. What is the average of A, B, and C?', 'B']
+
+9: ['What is the sum of all of the roots of $(2x + 3) (x - 4) + (2x + 3) (x - 6) = 0$?', 'A']
+
+10: ['Jamal wants to save 30 files onto disks, each with 1.44 MB space. 3 of the files take up 0.8 MB each, 12 of the files take up 0.7 MB each, and the rest take up 0.4 MB each. It is not possible to split a file onto 2 different disks. What is the smallest number of disks needed to store all 30 files?', 'B']
+
+11: ['Mr. Earl E. Bird leaves home every day at 8:00 AM to go to work. If he drives at an average speed of 40 miles per hour, he will be late by 3 minutes. If he drives at an average speed of 60 miles per hour, he will be early by 3 minutes. How many miles per hour does Mr. Bird need to drive to get to work exactly on time?', 'B']
+
+12: ['Given a triangle with side lengths 15, 20, and 25, find the triangle's smallest altitude.', 'B']
+
+13: ['Both roots of the quadratic equation $x^2 - 63x + k = 0$ are prime numbers. The number of possible values of $k$ is', 'B']
+
+14: ['Using the digits 1, 2, 3, 4, 5, 6, 7, and 9, form 4 two-digit prime numbers, using each digit only once. What is the sum of the 4 prime numbers?', 'E']
+
+15: ['Let $a + 1 = b + 2 = c + 3 = d + 4 = a + b + c + d + 5$. What is $a + b + c + d$?', 'B']
+
+16: ['Sarah pours 4 ounces of coffee into a cup that can hold 8 ounces. Then she pours 4 ounces of cream into a second cup that can also hold 8 ounces. She then pours half of the contents of the first cup into the second cup, completely mixes the contents of the second cup, then pours half of the contents of the second cup back into the first cup. What fraction of the contents in the first cup is cream?', 'D']
+
+17: ['A 3x3x3 cube is made of 27 normal dice. Each die's opposite sides sum to 7. What is the smallest possible sum of all of the values visible on the 6 faces of the large cube?', 'D']
+
+18: ['Spot's doghouse has a regular hexagonal base that measures one yard on each side. He is tethered to a vertex with a two-yard rope. What is the area, in square yards, of the region outside of the doghouse that Spot can reach?', 'E']
+
+19: ['Points $A,B,C,D,E$ and $F$ lie, in that order, on $\overline{AF}$, dividing it into five segments, each of length 1. Point $G$ is not on line $AF$. Point $H$ lies on $\overline{GD}$, and point $J$ lies on $\overline{GF}$. The line segments $\overline{HC}, \overline{JE},$ and $\overline{AG}$ are parallel. Find $HC/JE$.', 'D']
+
+20: ['The mean, median, unique mode, and range of a collection of eight integers are all equal to 8. The largest integer that can be an element of this collection is', 'D']
+
+21: ['A set of tiles numbered 1 through 100 is modified repeatedly by the following operation: remove all tiles numbered with a perfect square, and renumber the remaining tiles consecutively starting with 1. How many times must the operation be performed to reduce the number of tiles in the set to one?', 'C']
+
+22: ['Points $A,B,C$ and $D$ lie on a line, in that order, with $AB = CD$ and $BC = 12$. Point $E$ is not on the line, and $BE = CE = 10$. The perimeter of $\triangle AED$ is twice the perimeter of $\triangle BEC$. Find $AB$.', 'D']
+
+23: ['Tina randomly selects two distinct numbers from the set {1, 2, 3, 4, 5}, and Sergio randomly selects a number from the set {1, 2, ..., 10}. What is the probability that Sergio's number is larger than the sum of the two numbers chosen by Tina?', 'A']
+
+24: ['[asy] pair A,B,C,D; A=(0,0); B=(52,0); C=(38,20); D=(5,20); dot(A); dot(B); dot(C); dot(D); draw(A--B--C--D--cycle); label("$A$",A,S); label("$B$",B,S); label("$C$",C,N); label("$D$",D,N); label("52",(A+B)/2,S); label("39",(C+D)/2,N); label("12",(B+C)/2,E); label("5",(D+A)/2,W); [/asy]
+In trapezoid $ABCD$ with bases $AB$ and $CD$, we have $AB = 52$, $BC = 12$, $CD = 39$, and $DA = 5$ (diagram not to scale). The area of $ABCD$ is', 'C']
+

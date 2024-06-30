@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 126,
+        "Setup": "Which of the following is the same as",
+        "Options": "\\[\\frac{2-4+6-8+10-12+14}{3-6+9-12+15-18+21}?\\]",
+        "Answer": "C"
+    },
+    {
+        "Index": 127,
+        "Setup": "Al gets the disease algebritis and must take one green pill and one pink pill each day for two weeks. A green pill costs $$$1$ more than a pink pill, and Al's pills cost a total of $$$546$ for the two weeks. How much does one green pill cost?",
+        "Options": "$\\textbf{(A) }$$7 \\qquad\\textbf{(B) }$ $14 \\qquad\\textbf{(C) }$$19\\qquad\\textbf{(D) }$ $20\\qquad\\textbf{(E) }$$39$",
+        "Answer": "D"
+    },
+    {
+        "Index": 128,
+        "Setup": "The sum of $5$ consecutive even integers is $4$ less than the sum of the first $8$ consecutive odd counting numbers. What is the smallest of the even integers?",
+        "Options": "$\\textbf{(A) } 6 \\qquad\\textbf{(B) } 8 \\qquad\\textbf{(C) } 10 \\qquad\\textbf{(D) } 12 \\qquad\\textbf{(E) } 14$",
+        "Answer": "B"
+    },
+    {
+        "Index": 129,
+        "Setup": "Rose fills each of the rectangular regions of her rectangular flower bed with a different type of flower. The lengths, in feet, of the rectangular regions in her flower bed are as shown in the figure. She plants one flower per square foot in each region. Asters cost $$$1$ each, begonias $$$1.50$ each, cannas $$$2$ each, dahlias $$$2.50$ each, and Easter lilies $$$3$ each. What is the least possible cost, in dollars, for her garden?",
+        "Options": "[asy] unitsize(5mm); defaultpen(linewidth(.8pt)+fontsize(8pt)); draw((6,0)--(0,0)--(0,1)--(6,1)); draw((0,1)--(0,6)--(4,6)--(4,1)); draw((4,6)--(11,6)--(11,3)--(4,3)); draw((11,3)--(11,0)--(6,0)--(6,3)); label(\"1\",(0,0.5),W); label(\"5\",(0,3.5),W); label(\"3\",(11,1.5),E); label(\"3\",(11,4.5),E); label(\"4\",(2,6),N); label(\"7\",(7.5,6),N); label(\"6\",(3,0),S); label(\"5\",(8.5,0),S);[/asy]",
+        "Answer": "A"
+    },
+    {
+        "Index": 130,
+        "Setup": "Moe uses a mower to cut his rectangular $90$-foot by $150$-foot lawn. The swath he cuts is $28$ inches wide, but he overlaps each cut by $4$ inches to make sure that no grass is missed. He walks at the rate of $5000$ feet per hour while pushing the mower. Which of the following is closest to the number of hours it will take Moe to mow the lawn?",
+        "Options": "$\\textbf{(A) } 0.75 \\qquad\\textbf{(B) } 0.8 \\qquad\\textbf{(C) } 1.35 \\qquad\\textbf{(D) } 1.5 \\qquad\\textbf{(E) } 3$",
+        "Answer": "C"
+    },
+    {
+        "Index": 131,
+        "Setup": "Many television screens are rectangles that are measured by the length of their diagonals. The ratio of the horizontal length to the height in a standard television screen is $4\u00a0: 3$. The horizontal length of a \"$27$-inch\" television screen is closest, in inches, to which of the following?",
+        "Options": "[asy]  import math; unitsize(7mm); defaultpen(linewidth(.8pt)+fontsize(8pt)); draw((0,0)--(4,0)--(4,3)--(0,3)--(0,0)--(4,3)); fill((0,0)--(4,0)--(4,3)--cycle,mediumgray); label(rotate(aTan(3.0/4.0))*\"Diagonal\",(2,1.5),NW); label(rotate(90)*\"Height\",(4,1.5),E); label(\"Length\",(2,0),S);[/asy]\n$\\textbf{(A) } 20 \\qquad\\textbf{(B) } 20.5 \\qquad\\textbf{(C) } 21 \\qquad\\textbf{(D) } 21.5 \\qquad\\textbf{(E) } 22$",
+        "Answer": "D"
+    },
+    {
+        "Index": 132,
+        "Setup": "The symbolism $\\lfloor x \\rfloor$ denotes the largest integer not exceeding $x$. For example, $\\lfloor 3 \\rfloor = 3,$ and $\\lfloor 9/2 \\rfloor = 4$. Compute\n\\[\\lfloor \\sqrt{1} \\rfloor + \\lfloor \\sqrt{2} \\rfloor + \\lfloor \\sqrt{3} \\rfloor + \\cdots + \\lfloor \\sqrt{16} \\rfloor.\\]",
+        "Options": "$\\textbf{(A) } 35 \\qquad\\textbf{(B) } 38 \\qquad\\textbf{(C) } 40 \\qquad\\textbf{(D) } 42 \\qquad\\textbf{(E) } 136$",
+        "Answer": "B"
+    },
+    {
+        "Index": 133,
+        "Setup": "The second and fourth terms of a geometric sequence are $2$ and $6$. Which of the following is a possible first term?",
+        "Options": "$\\textbf{(A) } -\\sqrt{3}  \\qquad\\textbf{(B) } -\\frac{2\\sqrt{3}}{3} \\qquad\\textbf{(C) } -\\frac{\\sqrt{3}}{3} \\qquad\\textbf{(D) } \\sqrt{3} \\qquad\\textbf{(E) } 3$",
+        "Answer": "B"
+    },
+    {
+        "Index": 134,
+        "Setup": "Find the value of $x$ that satisfies the equation\n\\[25^{-2} = \\frac{5^{48/x}}{5^{26/x} \\cdot 25^{17/x}}.\\]",
+        "Options": "$\\textbf{(A) } 2 \\qquad\\textbf{(B) } 3 \\qquad\\textbf{(C) } 5 \\qquad\\textbf{(D) } 6 \\qquad\\textbf{(E) } 9$",
+        "Answer": "B"
+    },
+    {
+        "Index": 135,
+        "Setup": "Nebraska, the home of the AMC, changed its license plate scheme. Each old license plate consisted of a letter followed by four digits. Each new license plate consists of the three letters followed by three digits. By how many times is the number of possible license plates increased?",
+        "Options": "$\\textbf{(A) } \\frac{26}{10} \\qquad\\textbf{(B) } \\frac{26^2}{10^2} \\qquad\\textbf{(C) } \\frac{26^2}{10} \\qquad\\textbf{(D) } \\frac{26^3}{10^3} \\qquad\\textbf{(E) } \\frac{26^3}{10^2}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 136,
+        "Setup": "A line with slope $3$ intersects a line with slope $5$ at point  $(10,15)$. What is the distance between the $x$-intercepts of these two lines?",
+        "Options": "$\\textbf{(A) } 2 \\qquad\\textbf{(B) } 5 \\qquad\\textbf{(C) } 7 \\qquad\\textbf{(D) } 12 \\qquad\\textbf{(E) } 20$",
+        "Answer": "A"
+    },
+    {
+        "Index": 137,
+        "Setup": "Al, Betty, and Clare split $$$1000$ among them to be invested in different ways. Each begins with a different amount. At the end of one year, they have a total of $$$1500$. Betty and Clare have both doubled their money, whereas Al has managed to lose $$$100$. What was Al's original portion?",
+        "Options": "$\\textbf{(A) }$$250 \\qquad\\textbf{(B) }$ $350 \\qquad\\textbf{(C) }$$400\\qquad\\textbf{(D) }$ $450\\qquad\\textbf{(E) }$$500$",
+        "Answer": "C"
+    },
+    {
+        "Index": 138,
+        "Setup": "Let $\\clubsuit(x)$ denote the sum of the digits of the positive integer $x$. For example, $\\clubsuit(8)=8$ and $\\clubsuit(123)=1+2+3=6$. For how many two-digit values of $x$ is $\\clubsuit(\\clubsuit(x))=3$?",
+        "Options": "$\\textbf{(A) } 3 \\qquad\\textbf{(B) } 4 \\qquad\\textbf{(C) } 6 \\qquad\\textbf{(D) } 9 \\qquad\\textbf{(E) } 10$",
+        "Answer": "E"
+    },
+    {
+        "Index": 139,
+        "Setup": "Given that $3^8\\cdot5^2=a^b,$ where both $a$ and $b$ are positive integers, find the smallest possible value for $a+b$.",
+        "Options": "$\\textbf{(A) } 25 \\qquad\\textbf{(B) } 34 \\qquad\\textbf{(C) } 351 \\qquad\\textbf{(D) } 407 \\qquad\\textbf{(E) } 900$",
+        "Answer": "D"
+    },
+    {
+        "Index": 140,
+        "Setup": "There are $100$ players in a single tennis tournament. The tournament is single elimination, meaning that a player who loses a match is eliminated. In the first round, the strongest $28$ players are given a bye, and the remaining $72$ players are paired off to play. After each round, the remaining players play in the next round. The tournament continues until only one player remains unbeaten. The total number of matches played is",
+        "Options": "$\\textbf{(A) } \\text{a prime number} \\qquad\\textbf{(B) } \\text{divisible by 2} \\qquad\\textbf{(C) } \\text{divisible by 5} \\qquad\\textbf{(D) } \\text{divisible by 7} \\qquad\\textbf{(E) } \\text{divisible by 11}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 141,
+        "Setup": "A restaurant offers three desserts, and exactly twice as many appetizers as main courses. A dinner consists of an appetizer, a main course, and a dessert. What is the least number of main courses that a restaurant should offer so that a customer could have a different dinner each night in the year $2003$?",
+        "Options": "$\\textbf{(A) } 4 \\qquad\\textbf{(B) } 5 \\qquad\\textbf{(C) } 6 \\qquad\\textbf{(D) } 7 \\qquad\\textbf{(E) } 8$",
+        "Answer": "E"
+    },
+    {
+        "Index": 142,
+        "Setup": "An ice cream cone consists of a sphere of vanilla ice cream and a right circular cone that has the same diameter as the sphere. If the ice cream melts, it will exactly fill the cone. Assume that the melted ice cream occupies $75\\%$ of the volume of the frozen ice cream. What is the ratio of the cone's height to its radius? (Note: a cone with radius $r$ and height $h$ has volume $\\pi r^2 h / 3$ and a sphere with radius $r$ has volume $4 \\pi r^3 / 3$.)",
+        "Options": "$\\textbf{(A) } 2:1 \\qquad\\textbf{(B) } 3:1 \\qquad\\textbf{(C) } 4:1 \\qquad\\textbf{(D) } 16:3 \\qquad\\textbf{(E) } 6:1$",
+        "Answer": "B"
+    },
+    {
+        "Index": 143,
+        "Setup": "What is the largest integer that is a divisor of\n\\[(n+1)(n+3)(n+5)(n+7)(n+9)\\]\nfor all positive even integers $n$?",
+        "Options": "$\\textbf{(A) } 3 \\qquad\\textbf{(B) } 5 \\qquad\\textbf{(C) } 11 \\qquad\\textbf{(D) } 15 \\qquad\\textbf{(E) } 165$",
+        "Answer": "D"
+    },
+    {
+        "Index": 144,
+        "Setup": "Three semicircles of radius $1$ are constructed on diameter $\\overline{AB}$ of a semicircle of radius $2$. The centers of the small semicircles divide $\\overline{AB}$ into four line segments of equal length, as shown. What is the area of the shaded region that lies within the large semicircle but outside the smaller semicircles?",
+        "Options": "[asy] import graph; unitsize(14mm); defaultpen(linewidth(.8pt)+fontsize(8pt)); dashed=linetype(\"4 4\"); dotfactor=3; pair A=(-2,0), B=(2,0); fill(Arc((0,0),2,0,180)--cycle,mediumgray); fill(Arc((-1,0),1,0,180)--cycle,white); fill(Arc((0,0),1,0,180)--cycle,white); fill(Arc((1,0),1,0,180)--cycle,white); draw(Arc((-1,0),1,60,180)); draw(Arc((0,0),1,0,60),dashed); draw(Arc((0,0),1,60,120)); draw(Arc((0,0),1,120,180),dashed); draw(Arc((1,0),1,0,120)); draw(Arc((0,0),2,0,180)--cycle); dot((0,0)); dot((-1,0)); dot((1,0)); draw((-2,-0.1)--(-2,-0.3),gray); draw((-1,-0.1)--(-1,-0.3),gray); draw((1,-0.1)--(1,-0.3),gray); draw((2,-0.1)--(2,-0.3),gray); label(\"$A$\",A,W); label(\"$B$\",B,E); label(\"1\",(-1.5,-0.1),S); label(\"2\",(0,-0.1),S); label(\"1\",(1.5,-0.1),S);[/asy]",
+        "Answer": "E"
+    },
+    {
+        "Index": 145,
+        "Setup": "In rectangle $ABCD, AB=5$ and $BC=3$. Points $F$ and $G$ are on $\\overline{CD}$ so that $DF=1$ and $GC=2$. Lines $AF$ and $BG$ intersect at $E$. Find the area of $\\triangle AEB$.",
+        "Options": "[asy]  unitsize(6mm); defaultpen(linewidth(.8pt)+fontsize(8pt)); pair A=(0,0), B=(5,0), C=(5,3), D=(0,3), F=(1,3), G=(3,3); pair E=extension(A,F,B,G); draw(A--B--C--D--A--E--B); label(\"$A$\",A,SW); label(\"$B$\",B,SE); label(\"$C$\",C,NE); label(\"$D$\",D,NW); label(\"$E$\",E,N); label(\"$F$\",F,SE); label(\"$G$\",G,SW); label(\"$B$\",B,SE); label(\"1\",midpoint(D--F),N); label(\"2\",midpoint(G--C),N); label(\"3\",midpoint(B--C),E); label(\"3\",midpoint(A--D),W); label(\"5\",midpoint(A--B),S); [/asy]\n$\\textbf{(A) } 10 \\qquad\\textbf{(B) } \\frac{21}{2} \\qquad\\textbf{(C) } 12 \\qquad\\textbf{(D) } \\frac{25}{2} \\qquad\\textbf{(E) } 15$",
+        "Answer": "D"
+    },
+    {
+        "Index": 146,
+        "Setup": "A bag contains two red beads and two green beads. You reach into the bag and pull out a bead, replacing it with a red bead regardless of the color you pulled out. What is the probability that all beads in the bag are red after three such replacements?",
+        "Options": "$\\textbf{(A) } \\frac{1}{8} \\qquad\\textbf{(B) } \\frac{5}{32} \\qquad\\textbf{(C) } \\frac{9}{32} \\qquad\\textbf{(D) } \\frac{3}{8} \\qquad\\textbf{(E) } \\frac{7}{16}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 147,
+        "Setup": "A clock chimes once at $30$ minutes past each hour and chimes on the hour according to the hour. For example, at $1 \\text{PM}$ there is one chime and at noon and midnight there are twelve chimes. Starting at $11:15 \\text{AM}$ on $\\text{February 26, 2003},$ on what date will the $2003\\text{rd}$ chime occur?",
+        "Options": "$\\textbf{(A) } \\text{March 8} \\qquad\\textbf{(B) } \\text{March 9} \\qquad\\textbf{(C) } \\text{March 10} \\qquad\\textbf{(D) } \\text{March 20} \\qquad\\textbf{(E) } \\text{March 21}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 148,
+        "Setup": "A regular octagon $ABCDEFGH$ has an area of one square unit. What is the area of the rectangle $ABEF$?",
+        "Options": "[asy] unitsize(10mm); defaultpen(linewidth(.8pt)+fontsize(8pt)); pair C=dir(22.5), B=dir(67.5), A=dir(112.5), H=dir(157.5), G=dir(202.5), F=dir(247.5), E=dir(292.5), D=dir(337.5); draw(A--B--C--D--E--F--G--H--cycle); label(\"$A$\",A,NNW); label(\"$B$\",B,NNE); label(\"$C$\",C,ENE); label(\"$D$\",D,ESE); label(\"$E$\",E,SSE); label(\"$F$\",F,SSW); label(\"$G$\",G,WSW); label(\"$H$\",H,WNW); [/asy]\n$\\textbf{(A) } 1 - \\frac{\\sqrt{2}}{2} \\qquad\\textbf{(B) } \\frac{\\sqrt{2}}{4} \\qquad\\textbf{(C) } \\sqrt{2} - 1 \\qquad\\textbf{(D) } \\frac{1}{2} \\qquad\\textbf{(E) } \\frac{1+\\sqrt{2}}{4}$",
+        "Answer": "D"
+    },
+    {
+        "Index": 149,
+        "Setup": "The first four terms in an arithmetic sequence are $x + y, x - y, xy,$ and $x/y,$ in that order. What is the \ufb01fth term?",
+        "Options": "$\\textbf{(A)}\\ -\\frac{15}{8}\\qquad\\textbf{(B)}\\ -\\frac{6}{5}\\qquad\\textbf{(C)}\\ 0\\qquad\\textbf{(D)}\\ \\frac{27}{20}\\qquad\\textbf{(E)}\\ \\frac{123}{40}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 150,
+        "Setup": "How many distinct four-digit numbers are divisible by $3$ and have $23$ as their last two digits?",
+        "Options": "$\\textbf{(A) } 27 \\qquad\\textbf{(B) } 30 \\qquad\\textbf{(C) } 33 \\qquad\\textbf{(D) } 81 \\qquad\\textbf{(E) } 90$",
+        "Answer": "B"
+    }
+]

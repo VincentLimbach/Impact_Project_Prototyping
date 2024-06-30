@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 1,
+        "Setup": "A taxi ride costs $1.50 plus $0.25 per mile traveled.  How much does a 5-mile taxi ride cost?",
+        "Options": "$\\textbf{(A)}\\ 2.25 \\qquad\\textbf{(B)}\\ 2.50  \\qquad\\textbf{(C)}\\ 2.75 \\qquad\\textbf{(D)}\\ 3.00 \\qquad\\textbf{(E)}\\ 3.75$",
+        "Answer": "C"
+    },
+    {
+        "Index": 2,
+        "Setup": "Alice is making a batch of cookies and needs $2\\frac{1}{2}$ cups of sugar.  Unfortunately, her measuring cup holds only $\\frac{1}{4}$ cup of sugar.  How many times must she fill that cup to get the correct amount of sugar?",
+        "Options": "$\\textbf{(A)}\\ 8 \\qquad\\textbf{(B)}\\ 10  \\qquad\\textbf{(C)}\\ 12 \\qquad\\textbf{(D)}\\ 16 \\qquad\\textbf{(E)}\\ 20$",
+        "Answer": "B"
+    },
+    {
+        "Index": 3,
+        "Setup": "Square $ABCD$ has side length $10$. Point $E$ is on $\\overline{BC}$, and the area of $\\triangle ABE$\nis $40$. What is $BE$?\n[asy] pair A,B,C,D,E; A=(0,0); B=(0,50); C=(50,50); D=(50,0); E = (30,50);    draw(A--B);    draw(B--E);    draw(E--C); draw(C--D); draw(D--A); draw(A--E); dot(A); dot(B); dot(C); dot(D); dot(E); label(\"A\",A,SW); label(\"B\",B,NW); label(\"C\",C,NE); label(\"D\",D,SE); label(\"E\",E,N);  [/asy]",
+        "Options": "$\\textbf{(A)}\\ 4\\qquad\\textbf{(B)}\\ 5\\qquad\\textbf{(C)}\\ 6\\qquad\\textbf{(D)}\\ 7\\qquad\\textbf{(E)}\\ 8$",
+        "Answer": "E"
+    },
+    {
+        "Index": 4,
+        "Setup": "A softball team played ten games, scoring 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 runs.  They lost by one run in exactly five games.  In each of their other games, they scored twice as many runs as their opponent. How many total runs did their opponents score?",
+        "Options": "$\\textbf{(A)}\\ 35 \\qquad\\textbf{(B)}\\ 40 \\qquad\\textbf{(C)}\\ 45 \\qquad\\textbf{(D)}\\ 50 \\qquad\\textbf{(E)}\\ 55$",
+        "Answer": "C"
+    },
+    {
+        "Index": 5,
+        "Setup": "Tom, Dorothy, and Sammy went on a vacation and agreed to split the costs evenly.  During their trip Tom paid $$105$, Dorothy paid $$125$, and Sammy paid $$175$.  In order to share costs equally, Tom gave Sammy $t$ dollars, and Dorothy gave Sammy $d$ dollars.  What is $t-d$?",
+        "Options": "$\\textbf{(A)}\\ 15\\qquad\\textbf{(B)}\\ 20\\qquad\\textbf{(C)}\\ 25\\qquad\\textbf{(D)}\\ 30\\qquad\\textbf{(E)}\\ 35$",
+        "Answer": "B"
+    },
+    {
+        "Index": 6,
+        "Setup": "Joey and his five brothers are ages 3, 5, 7, 9, 11, and 13.  One afternoon two of his brothers whose ages sum to 16 went to the movies, two brothers younger than 10 went to play baseball, and Joey and the 5-year-old stayed home.  How old is Joey?",
+        "Options": "$\\textbf{(A)}\\ 3 \\qquad\\textbf{(B)}\\ 7  \\qquad\\textbf{(C)}\\ 9 \\qquad\\textbf{(D)}\\ 11 \\qquad\\textbf{(E)}\\ 13$",
+        "Answer": "D"
+    },
+    {
+        "Index": 7,
+        "Setup": "A student must choose a program of four courses from a menu of courses consisting of English, Algebra, Geometry, History, Art, and Latin. This program must contain English and at least one mathematics course. In how many ways can this program be chosen?",
+        "Options": "$\\textbf{(A)}\\ 6\\qquad\\textbf{(B)}\\ 8\\qquad\\textbf{(C)}\\ 9\\qquad\\textbf{(D)}\\ 12\\qquad\\textbf{(E)}\\ 16$",
+        "Answer": "C"
+    },
+    {
+        "Index": 8,
+        "Setup": "What is the value of $\\frac{2^{2014}+2^{2012}}{2^{2014}-2^{2012}}\u00a0?$",
+        "Options": "$\\textbf{(A)}\\ -1 \\qquad\\textbf{(B)}\\ 1  \\qquad\\textbf{(C)}\\ \\frac{5}{3} \\qquad\\textbf{(D)}\\ 2013 \\qquad\\textbf{(E)}\\ 2^{4024}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 9,
+        "Setup": "In a recent basketball game, Shenille attempted only three-point shots and two-point shots.  She was successful on $20\\%$ of her three-point shots and $30\\%$ of her two-point shots.  Shenille attempted $30$ shots.  How many points did she score?",
+        "Options": "$\\textbf{(A)}\\ 12 \\qquad\\textbf{(B)}\\ 18  \\qquad\\textbf{(C)}\\ 24 \\qquad\\textbf{(D)}\\ 30 \\qquad\\textbf{(E)}\\ 36$",
+        "Answer": "B"
+    },
+    {
+        "Index": 10,
+        "Setup": "A flower bouquet contains pink roses, red roses, pink carnations, and red carnations.  One third of the pink flowers are roses, three fourths of the red flowers are carnations, and six tenths of the flowers are pink.  What percent of the flowers are carnations?",
+        "Options": "$\\textbf{(A)}\\ 15 \\qquad\\textbf{(B)}\\ 30  \\qquad\\textbf{(C)}\\ 40 \\qquad\\textbf{(D)}\\ 60 \\qquad\\textbf{(E)}\\ 70$",
+        "Answer": "E"
+    },
+    {
+        "Index": 11,
+        "Setup": "A student council must select a two-person welcoming committee and a three-person planning committee from among its members. There are exactly 10 ways to select a two-person team for the welcoming committee. It is possible for students to serve on both committees. In how many different ways can a three-person planning committee be selected?",
+        "Options": "$\\textbf{(A)}\\ 10\\qquad\\textbf{(B)}\\ 12\\qquad\\textbf{(C)}\\ 15\\qquad\\textbf{(D)}\\ 18\\qquad\\textbf{(E)}\\ 25$",
+        "Answer": "A"
+    },
+    {
+        "Index": 12,
+        "Setup": "In $\\triangle ABC$, $AB=AC=28$ and $BC=20$.  Points $D,E,$ and $F$ are on sides $\\overline{AB}$, $\\overline{BC}$, and $\\overline{AC}$, respectively, such that $\\overline{DE}$ and $\\overline{EF}$ are parallel to $\\overline{AC}$ and $\\overline{AB}$, respectively.  What is the perimeter of parallelogram $ADEF$?",
+        "Options": "[asy] size(180); pen dps = linewidth(0.7) + fontsize(10); defaultpen(dps); real r=5/7; pair A=(10,sqrt(28^2-100)),B=origin,C=(20,0),D=(A.x*r,A.y*r); pair bottom=(C.x+(D.x-A.x),C.y+(D.y-A.y)); pair E=extension(D,bottom,B,C); pair top=(E.x+D.x,E.y+D.y); pair F=extension(E,top,A,C); draw(A--B--C--cycle^^D--E--F); dot(A^^B^^C^^D^^E^^F); label(\"$A$\",A,NW); label(\"$B$\",B,SW); label(\"$C$\",C,SE); label(\"$D$\",D,W); label(\"$E$\",E,S); label(\"$F$\",F,dir(0)); [/asy]",
+        "Answer": "C"
+    },
+    {
+        "Index": 13,
+        "Setup": "How many three-digit numbers are not divisible by $5$, have digits that sum to less than $20$, and have the first digit equal to the third digit?",
+        "Options": "$\\textbf{(A)}\\ 52 \\qquad\\textbf{(B)}\\ 60  \\qquad\\textbf{(C)}\\ 66 \\qquad\\textbf{(D)}\\ 68 \\qquad\\textbf{(E)}\\ 70$",
+        "Answer": "B"
+    },
+    {
+        "Index": 14,
+        "Setup": "A solid cube of side length $1$ is removed from each corner of a solid cube of side length $3$.  How many edges does the remaining solid have?",
+        "Options": "$\\textbf{(A) }36\\qquad\\textbf{(B) }60\\qquad\\textbf{(C) }72\\qquad\\textbf{(D) }84\\qquad\\textbf{(E) }108\\qquad$",
+        "Answer": "D"
+    },
+    {
+        "Index": 15,
+        "Setup": "Two sides of a triangle have lengths $10$ and $15$.  The length of the altitude to the third side is the average of the lengths of the altitudes to the two given sides.  How long is the third side?",
+        "Options": "$\\textbf{(A)}\\ 6 \\qquad\\textbf{(B)}\\ 8 \\qquad\\textbf{(C)}\\ 9 \\qquad\\textbf{(D)}\\ 12 \\qquad\\textbf{(E)}\\ 18$",
+        "Answer": "D"
+    },
+    {
+        "Index": 16,
+        "Setup": "A triangle with vertices $(6, 5)$, $(8, -3)$, and $(9, 1)$ is reflected about the line $x=8$ to create a second triangle.  What is the area of the union of the two triangles?",
+        "Options": "$\\textbf{(A)}\\ 9 \\qquad\\textbf{(B)}\\ \\frac{28}{3} \\qquad\\textbf{(C)}\\ 10 \\qquad\\textbf{(D)}\\ \\frac{31}{3} \\qquad\\textbf{(E)}\\ \\frac{32}{3}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 17,
+        "Setup": "Daphne is visited periodically by her three best friends: Alice, Beatrix, and Claire.  Alice visits every third day, Beatrix visits every fourth day, and Claire visits every fifth day.  All three friends visited Daphne yesterday.  How many days of the next 365-day period will exactly two friends visit her?",
+        "Options": "$\\textbf{(A)}\\ 48\\qquad\\textbf{(B)}\\ 54\\qquad\\textbf{(C)}\\ 60\\qquad\\textbf{(D)}\\ 66\\qquad\\textbf{(E)}\\ 72$",
+        "Answer": "B"
+    },
+    {
+        "Index": 18,
+        "Setup": "Let points $A = (0, 0)$, $B = (1, 2)$, $C=(3, 3)$, and $D = (4, 0)$.  Quadrilateral $ABCD$ is cut into equal area pieces by a line passing through $A$.  This line intersects $\\overline{CD}$ at point $\\bigg(\\frac{p}{q}, \\frac{r}{s}\\bigg)$, where these fractions are in lowest terms.  What is $p+q+r+s$?",
+        "Options": "$\\textbf{(A)}\\ 54\\qquad\\textbf{(B)}\\ 58\\qquad\\textbf{(C)}\\ 62\\qquad\\textbf{(D)}\\ 70\\qquad\\textbf{(E)}\\ 75$",
+        "Answer": "B"
+    },
+    {
+        "Index": 19,
+        "Setup": "In base $10$, the number $2013$ ends in the digit $3$.  In base $9$, on the other hand, the same number is written as $(2676)_{9}$ and ends in the digit $6$.  For how many positive integers $b$ does the base-$b$-representation of $2013$ end in the digit $3$?",
+        "Options": "$\\textbf{(A)}\\ 6\\qquad\\textbf{(B)}\\ 9\\qquad\\textbf{(C)}\\ 13\\qquad\\textbf{(D)}\\ 16\\qquad\\textbf{(E)}\\ 18$",
+        "Answer": "C"
+    },
+    {
+        "Index": 20,
+        "Setup": "A unit square is rotated $45^\\circ$ about its center.  What is the area of the region swept out by the interior of the square?",
+        "Options": "$\\textbf{(A)}\\ 1 - \\frac{\\sqrt2}{2} + \\frac{\\pi}{4}\\qquad\\textbf{(B)}\\ \\frac{1}{2} + \\frac{\\pi}{4} \\qquad\\textbf{(C)}\\ 2 - \\sqrt2 + \\frac{\\pi}{4}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 21,
+        "Setup": "A group of $12$ pirates agree to divide a treasure chest of gold coins among themselves as follows.  The $k^{\\text{th}}$ pirate to take a share takes $\\frac{k}{12}$ of the coins that remain in the chest.  The number of coins initially in the chest is the smallest number for which this arrangement will allow each pirate to receive a positive whole number of coins.  How many coins does the $12^{\\text{th}}$ pirate receive?",
+        "Options": "$\\textbf{(A)}\\ 720\\qquad\\textbf{(B)}\\ 1296\\qquad\\textbf{(C)}\\ 1728\\qquad\\textbf{(D)}\\ 1925\\qquad\\textbf{(E)}\\ 3850$",
+        "Answer": "D"
+    },
+    {
+        "Index": 22,
+        "Setup": "Six spheres of radius $1$ are positioned so that their centers are at the vertices of a regular hexagon of side length $2$. The six spheres are internally tangent to a larger sphere whose center is the center of the hexagon.  An eighth sphere is externally tangent to the six smaller spheres and internally tangent to the larger sphere.  What is the radius of this eighth sphere?",
+        "Options": "$\\textbf{(A)}\\ \\sqrt2\\qquad\\textbf{(B)}\\ \\frac{3}{2}\\qquad\\textbf{(C)}\\ \\frac{5}{3}\\qquad\\textbf{(D)}\\ \\sqrt3\\qquad\\textbf{(E)}\\ 2$",
+        "Answer": "B"
+    },
+    {
+        "Index": 23,
+        "Setup": "In $\\triangle ABC$, $AB = 86$, and $AC=97$.  A circle with center $A$ and radius $AB$ intersects $\\overline{BC}$ at points $B$ and $X$.  Moreover $\\overline{BX}$ and $\\overline{CX}$ have integer lengths.  What is $BC$?",
+        "Options": "$\\textbf{(A)}\\ 11\\qquad\\textbf{(B)}\\ 28\\qquad\\textbf{(C)}\\ 33\\qquad\\textbf{(D)}\\ 61\\qquad\\textbf{(E)}\\ 72$",
+        "Answer": "D"
+    },
+    {
+        "Index": 24,
+        "Setup": "Central High School is competing against Northern High School in a backgammon match. Each school has three players, and the contest rules require that each player play two games against each of the other school's players. The match takes place in six rounds, with three games played simultaneously in each round. In how many different ways can the match be scheduled?",
+        "Options": "$\\textbf{(A)}\\ 540\\qquad\\textbf{(B)}\\ 600\\qquad\\textbf{(C)}\\ 720\\qquad\\textbf{(D)}\\ 810\\qquad\\textbf{(E)}\\ 900$",
+        "Answer": "E"
+    },
+    {
+        "Index": 25,
+        "Setup": "All 20 diagonals are drawn in a regular octagon. At how many distinct points in the interior\nof the octagon (not on the boundary) do two or more diagonals intersect?",
+        "Options": "$\\textbf{(A)}\\ 49\\qquad\\textbf{(B)}\\ 65\\qquad\\textbf{(C)}\\ 70\\qquad\\textbf{(D)}\\ 96\\qquad\\textbf{(E)}\\ 128$",
+        "Answer": "A"
+    }
+]

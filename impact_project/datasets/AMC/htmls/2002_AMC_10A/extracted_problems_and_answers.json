@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 1,
+        "Setup": "The ratio $\\frac{10^{2000}+10^{2002}}{10^{2001}+10^{2001}}$ is closest to which of the following numbers?",
+        "Options": "$\\text{(A)}\\ 0.1 \\qquad \\text{(B)}\\ 0.2 \\qquad \\text{(C)}\\ 1 \\qquad \\text{(D)}\\ 5 \\qquad \\text{(E)}\\ 10$",
+        "Answer": "D"
+    },
+    {
+        "Index": 2,
+        "Setup": "Given that $a, b,$ and $c$ are non-zero real numbers, define $(a, b, c) = \\frac{a}{b} + \\frac{b}{c} + \\frac{c}{a}$. Find $(2, 12, 9)$.",
+        "Options": "$\\text{(A)}\\ 4 \\qquad \\text{(B)}\\ 5 \\qquad \\text{(C)}\\ 6 \\qquad \\text{(D)}\\ 7 \\qquad \\text{(E)}\\ 8$",
+        "Answer": "C"
+    },
+    {
+        "Index": 3,
+        "Setup": "According to the standard convention for exponentiation,",
+        "Options": "$2^{2^{2^2}} = 2^{\\left(2^{\\left(2^2\\right)}\\right)} = 2^{16} = 65,536$.",
+        "Answer": "B"
+    },
+    {
+        "Index": 4,
+        "Setup": "For how many positive integers $m$ is there at least 1 positive integer $n$ such that $mn \\le m + n$?",
+        "Options": "$\\text{(A)}\\ 4 \\qquad \\text{(B)}\\ 6 \\qquad \\text{(C)}\\ 9 \\qquad \\text{(D)}\\ 12 \\qquad \\text{(E)}$ infinitely many",
+        "Answer": "E"
+    },
+    {
+        "Index": 5,
+        "Setup": "Each of the small circles in the figure has radius one. The innermost circle is tangent to the six circles that surround it, and each of those circles is tangent to the large circle and to its small-circle neighbors. Find the area of the shaded region.",
+        "Options": "[asy] unitsize(.3cm); path c=Circle((0,2),1); filldraw(Circle((0,0),3),grey,black); filldraw(Circle((0,0),1),white,black); filldraw(c,white,black); filldraw(rotate(60)*c,white,black); filldraw(rotate(120)*c,white,black); filldraw(rotate(180)*c,white,black); filldraw(rotate(240)*c,white,black); filldraw(rotate(300)*c,white,black); [/asy]",
+        "Answer": "C"
+    },
+    {
+        "Index": 6,
+        "Setup": "From a starting number, Cindy was supposed to subtract 3, and then divide by 9, but instead, Cindy subtracted 9, then divided by 3, getting 43. If the correct instructions were followed, what would the result be?",
+        "Options": "$\\text{(A)}\\ 15 \\qquad \\text{(B)}\\ 34 \\qquad \\text{(C)}\\ 43 \\qquad \\text{(D)}\\ 51 \\qquad \\text{(E)} 138$",
+        "Answer": "A"
+    },
+    {
+        "Index": 7,
+        "Setup": "A $45^\\circ$ arc of circle A is equal in length to a $30^\\circ$ arc of circle B. What is the ratio of circle A's area and circle B's area?",
+        "Options": "$\\text{(A)}\\ 4/9 \\qquad \\text{(B)}\\ 2/3 \\qquad \\text{(C)}\\ 5/6 \\qquad \\text{(D)}\\ 3/2 \\qquad \\text{(E)}\\ 9/4$",
+        "Answer": "A"
+    },
+    {
+        "Index": 8,
+        "Setup": "Betsy designed a flag using blue triangles, small white squares, and a red center square, as shown. Let $B$ be the total area of the blue triangles, $W$ the total area of the white squares, and $R$ the area of the red square. Which of the following is correct?",
+        "Options": "[asy] unitsize(3mm); fill((-4,-4)--(-4,4)--(4,4)--(4,-4)--cycle,blue); fill((-2,-2)--(-2,2)--(2,2)--(2,-2)--cycle,red); path onewhite=(-3,3)--(-2,4)--(-1,3)--(-2,2)--(-3,3)--(-1,3)--(0,4)--(1,3)--(0,2)--(-1,3)--(1,3)--(2,4)--(3,3)--(2,2)--(1,3)--cycle; path divider=(-2,2)--(-3,3)--cycle; fill(onewhite,white); fill(rotate(90)*onewhite,white); fill(rotate(180)*onewhite,white); fill(rotate(270)*onewhite,white); [/asy]",
+        "Answer": "A"
+    },
+    {
+        "Index": 9,
+        "Setup": "There are 3 numbers A, B, and C, such that $1001C - 2002A = 4004$, and $1001B + 3003A = 5005$. What is the average of A, B, and C?",
+        "Options": "$\\text{(A)}\\ 1 \\qquad \\text{(B)}\\ 3 \\qquad \\text{(C)}\\ 6 \\qquad \\text{(D)}\\ 9 \\qquad \\text{(E)}$ Not uniquely determined",
+        "Answer": "B"
+    },
+    {
+        "Index": 10,
+        "Setup": "What is the sum of all of the roots of $(2x + 3) (x - 4) + (2x + 3) (x - 6) = 0$?",
+        "Options": "$\\text{(A)}\\ 7/2 \\qquad \\text{(B)}\\ 4 \\qquad \\text{(C)}\\ 5 \\qquad \\text{(D)}\\ 7 \\qquad \\text{(E)}\\ 13$",
+        "Answer": "A"
+    },
+    {
+        "Index": 11,
+        "Setup": "Jamal wants to save 30 files onto disks, each with 1.44 MB space. 3 of the files take up 0.8 MB each, 12 of the files take up 0.7 MB each, and the rest take up 0.4 MB each. It is not possible to split a file onto 2 different disks. What is the smallest number of disks needed to store all 30 files?",
+        "Options": "$\\text{(A)}\\ 12 \\qquad \\text{(B)}\\ 13 \\qquad \\text{(C)}\\ 14 \\qquad \\text{(D)}\\ 15 \\qquad \\text{(E)} 16$",
+        "Answer": "B"
+    },
+    {
+        "Index": 12,
+        "Setup": "Mr. Earl E. Bird leaves home every day at 8:00 AM to go to work. If he drives at an average speed of 40 miles per hour, he will be late by 3 minutes. If he drives at an average speed of 60 miles per hour, he will be early by 3 minutes. How many miles per hour does Mr. Bird need to drive to get to work exactly on time?",
+        "Options": "$\\text{(A)}\\ 45 \\qquad \\text{(B)}\\ 48 \\qquad \\text{(C)}\\ 50 \\qquad \\text{(D)}\\ 55 \\qquad \\text{(E)} 58$",
+        "Answer": "B"
+    },
+    {
+        "Index": 13,
+        "Setup": "Given a triangle with side lengths 15, 20, and 25, find the triangle's smallest altitude.",
+        "Options": "$\\text{(A)}\\ 6 \\qquad \\text{(B)}\\ 12 \\qquad \\text{(C)}\\ 12.5 \\qquad \\text{(D)}\\ 13 \\qquad \\text{(E)}\\ 15$",
+        "Answer": "B"
+    },
+    {
+        "Index": 14,
+        "Setup": "Both roots of the quadratic equation $x^2 - 63x + k = 0$ are prime numbers. The number of possible values of $k$ is",
+        "Options": "$\\text{(A)}\\ 0 \\qquad \\text{(B)}\\ 1 \\qquad \\text{(C)}\\ 2 \\qquad \\text{(D)}\\ 4 \\qquad \\text{(E) more than 4}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 15,
+        "Setup": "Using the digits 1, 2, 3, 4, 5, 6, 7, and 9, form 4 two-digit prime numbers, using each digit only once. What is the sum of the 4 prime numbers?",
+        "Options": "$\\text{(A)}\\ 150 \\qquad \\text{(B)}\\ 160 \\qquad \\text{(C)}\\ 170 \\qquad \\text{(D)}\\ 180 \\qquad \\text{(E)}\\ 190$",
+        "Answer": "E"
+    },
+    {
+        "Index": 16,
+        "Setup": "Let $a + 1 = b + 2 = c + 3 = d + 4 = a + b + c + d + 5$. What is $a + b + c + d$?",
+        "Options": "$\\text{(A)}\\ -5 \\qquad \\text{(B)}\\ -10/3 \\qquad \\text{(C)}\\ -7/3 \\qquad \\text{(D)}\\ 5/3 \\qquad \\text{(E)}\\ 5$",
+        "Answer": "B"
+    },
+    {
+        "Index": 17,
+        "Setup": "Sarah pours 4 ounces of coffee into a cup that can hold 8 ounces. Then she pours 4 ounces of cream into a second cup that can also hold 8 ounces. She then pours half of the contents of the first cup into the second cup, completely mixes the contents of the second cup, then pours half of the contents of the second cup back into the first cup. What fraction of the contents in the first cup is cream?",
+        "Options": "$\\text{(A)}\\ 1/4 \\qquad \\text{(B)}\\ 1/3 \\qquad \\text{(C)}\\ 3/8 \\qquad \\text{(D)}\\ 2/5 \\qquad \\text{(E)} 1/2$",
+        "Answer": "D"
+    },
+    {
+        "Index": 18,
+        "Setup": "A 3x3x3 cube is made of 27 normal dice. Each die's opposite sides sum to 7. What is the smallest possible sum of all of the values visible on the 6 faces of the large cube?",
+        "Options": "$\\text{(A)}\\ 60 \\qquad \\text{(B)}\\ 72 \\qquad \\text{(C)}\\ 84 \\qquad \\text{(D)}\\ 90 \\qquad \\text{(E)} 96$",
+        "Answer": "D"
+    },
+    {
+        "Index": 19,
+        "Setup": "Spot's doghouse has a regular hexagonal base that measures one yard on each side. He is tethered to a vertex with a two-yard rope. What is the area, in square yards, of the region outside of the doghouse that Spot can reach?",
+        "Options": "$\\text{(A)}\\ 2\\pi/3 \\qquad \\text{(B)}\\ 2\\pi \\qquad \\text{(C)}\\ 5\\pi/2 \\qquad \\text{(D)}\\ 8\\pi/3 \\qquad \\text{(E)}\\ 3\\pi$",
+        "Answer": "E"
+    },
+    {
+        "Index": 20,
+        "Setup": "Points $A,B,C,D,E$ and $F$ lie, in that order, on $\\overline{AF}$, dividing it into five segments, each of length 1. Point $G$ is not on line $AF$. Point $H$ lies on $\\overline{GD}$, and point $J$ lies on $\\overline{GF}$. The line segments $\\overline{HC}, \\overline{JE},$ and $\\overline{AG}$ are parallel. Find $HC/JE$.",
+        "Options": "$\\text{(A)}\\ 5/4 \\qquad \\text{(B)}\\ 4/3 \\qquad \\text{(C)}\\ 3/2 \\qquad \\text{(D)}\\ 5/3 \\qquad \\text{(E)}\\ 2$",
+        "Answer": "D"
+    },
+    {
+        "Index": 21,
+        "Setup": "The mean, median, unique mode, and range of a collection of eight integers are all equal to 8. The largest integer that can be an element of this collection is",
+        "Options": "$\\text{(A)}\\ 11 \\qquad \\text{(B)}\\ 12 \\qquad \\text{(C)}\\ 13 \\qquad \\text{(D)}\\ 14 \\qquad \\text{(E)}\\ 15$",
+        "Answer": "D"
+    },
+    {
+        "Index": 22,
+        "Setup": "A set of tiles numbered 1 through 100 is modified repeatedly by the following operation: remove all tiles numbered with a perfect square, and renumber the remaining tiles consecutively starting with 1. How many times must the operation be performed to reduce the number of tiles in the set to one?",
+        "Options": "$\\text{(A)}\\ 10 \\qquad \\text{(B)}\\ 11 \\qquad \\text{(C)}\\ 18 \\qquad \\text{(D)}\\ 19 \\qquad \\text{(E)}\\ 20$",
+        "Answer": "C"
+    },
+    {
+        "Index": 23,
+        "Setup": "Points $A,B,C$ and $D$ lie on a line, in that order, with $AB = CD$ and $BC = 12$. Point $E$ is not on the line, and $BE = CE = 10$. The perimeter of $\\triangle AED$ is twice the perimeter of $\\triangle BEC$. Find $AB$.",
+        "Options": "$\\text{(A)}\\ 15/2 \\qquad \\text{(B)}\\ 8 \\qquad \\text{(C)}\\ 17/2 \\qquad \\text{(D)}\\ 9 \\qquad \\text{(E)}\\ 19/2$",
+        "Answer": "D"
+    },
+    {
+        "Index": 24,
+        "Setup": "Tina randomly selects two distinct numbers from the set {1, 2, 3, 4, 5}, and Sergio randomly selects a number from the set {1, 2, ..., 10}. What is the probability that Sergio's number is larger than the sum of the two numbers chosen by Tina?",
+        "Options": "$\\text{(A)}\\ 2/5 \\qquad \\text{(B)}\\ 9/20 \\qquad \\text{(C)}\\ 1/2 \\qquad \\text{(D)}\\ 11/20 \\qquad \\text{(E)}\\ 24/25$",
+        "Answer": "A"
+    },
+    {
+        "Index": 25,
+        "Setup": "[asy] pair A,B,C,D; A=(0,0); B=(52,0); C=(38,20); D=(5,20); dot(A); dot(B); dot(C); dot(D); draw(A--B--C--D--cycle); label(\"$A$\",A,S); label(\"$B$\",B,S); label(\"$C$\",C,N); label(\"$D$\",D,N); label(\"52\",(A+B)/2,S); label(\"39\",(C+D)/2,N); label(\"12\",(B+C)/2,E); label(\"5\",(D+A)/2,W); [/asy]\nIn trapezoid $ABCD$ with bases $AB$ and $CD$, we have $AB = 52$, $BC = 12$, $CD = 39$, and $DA = 5$ (diagram not to scale). The area of $ABCD$ is",
+        "Options": "$\\text{(A)}\\ 182 \\qquad \\text{(B)}\\ 195 \\qquad \\text{(C)}\\ 210 \\qquad \\text{(D)}\\ 234 \\qquad \\text{(E)}\\ 260$",
+        "Answer": "C"
+    }
+]

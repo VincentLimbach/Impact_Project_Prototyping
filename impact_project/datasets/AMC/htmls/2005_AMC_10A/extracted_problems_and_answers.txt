@@ -1,0 +1,50 @@
+0: ['While eating out, Mike and Joe each tipped their server $2$ dollars. Mike tipped $10\%$ of his bill and Joe tipped $20\%$ of his bill. What was the difference, in dollars between their bills?', 'D']
+
+1: ['For each pair of real numbers $a \neq b$, define the operation $\star$ as', 'C']
+
+2: ['The equations $2x + 7 = 3$ and $bx - 10 = -2$ have the same solution $x$. What is the value of $b$?', 'B']
+
+3: ['A rectangle with a diagonal of length $x$ is twice as long as it is wide. What is the area of the rectangle?', 'B']
+
+4: ['A store normally sells windows at $100 each. This week the store is offering one free window for each purchase of four. Dave needs seven windows and Doug needs eight windows. How many dollars will they save if they purchase the windows together rather than separately?', 'A']
+
+5: ['The average (mean) of $20$ numbers is $30$, and the average of $30$ other numbers is $20$. What is the average of all $50$ numbers?', 'B']
+
+6: ['Josh and Mike live $13$ miles apart. Yesterday Josh started to ride his bicycle toward Mike's house. A little later Mike started to ride his bicycle toward Josh's house. When they met, Josh had ridden for twice the length of time as Mike and at four-fifths of Mike's rate. How many miles had Mike ridden when they met?', 'B']
+
+7: ['In the figure, the length of side $AB$ of square $ABCD$ is $\sqrt{50}$ and $BE=1$. What is the area of the inner square $EFGH$?', 'C']
+
+8: ['Three tiles are marked $X$ and two other tiles are marked $O$. The five tiles are randomly arranged in a row. What is the probability that the arrangement reads $XOXOX$?', 'B']
+
+9: ['There are two values of $a$ for which the equation $4x^2 + ax + 8x + 9 = 0$ has only one solution for $x$. What is the sum of those values of $a$?', 'A']
+
+10: ['A wooden cube $n$ units on a side is painted red on all six faces and then cut into $n^3$ unit cubes. Exactly one-fourth of the total number of faces of the unit cubes are red. What is $n$?', 'B']
+
+11: ['The figure shown is called a trefoil and is constructed by drawing circular sectors about the sides of the congruent equilateral triangles. What is the area of a trefoil whose horizontal base has length $2$?', 'B']
+
+12: ['How many positive integers $n$ satisfy the following condition:', 'E']
+
+13: ['How many three-digit numbers satisfy the property that the middle digit is the average of the first and the last digits?', 'E']
+
+14: ['How many positive cubes divide $3! \cdot 5! \cdot 7!$ ?', 'E']
+
+15: ['The sum of the digits of a two-digit number is subtracted from the number. The units digit of the result is $6$. How many two-digit numbers have this property?', 'D']
+
+16: ['In the five-sided star shown, the letters $A$, $B$, $C$, $D$, and $E$ are replaced by the numbers $3$, $5$, $6$, $7$, and $9$, although not necessarily in this order. The sums of the numbers at the ends of the line segments $AB$, $BC$, $CD$, $DE$, and $EA$ form an arithmetic sequence, although not necessarily in this order. What is the middle term of the sequence?', 'D']
+
+17: ['Team A and team B play a series. The first team to win three games wins the series. Each team is equally likely to win each game, there are no ties, and the outcomes of the individual games are independent. If team B wins the second game and team A wins the series, what is the probability that team B wins the first game?', 'A']
+
+18: ['Three one-inch squares are placed with their bases on a line. The center square is lifted out and rotated 45 degrees, as shown. Then it is centered and lowered into its original location until it touches both of the adjoining squares. How many inches is the point $B$ from the line on which the bases of the original squares were placed?', 'D']
+
+19: ['An equiangular octagon has four sides of length 1 and four sides of length $\frac{\sqrt{2}}{2}$, arranged so that no two consecutive sides have the same length.  What is the area of the octagon?', 'A']
+
+20: ['For how many positive integers $n$ does $1+2+...+n$ evenly divide $6n$?', 'B']
+
+21: ['Let $S$ be the set of the $2005$ smallest positive multiples of $4$, and let $T$ be the set of the $2005$ smallest positive multiples of $6$. How many elements are common to $S$ and $T$?', 'D']
+
+22: ['Let $AB$ be a diameter of a circle and let $C$ be a point on $AB$ with $2\cdot AC=BC$. Let $D$ and $E$ be points on the circle such that $DC \perp AB$ and $DE$ is a second diameter. What is the ratio of the area of $\triangle DCE$ to the area of $\triangle ABD$?', 'C']
+
+23: ['For each positive integer $n > 1$, let $P(n)$ denote the greatest prime factor of $n$. For how many positive integers $n$ is it true that both $P(n) = \sqrt{n}$ and $P(n+48) = \sqrt{n+48}$?', 'B']
+
+24: ['In $ABC$ we have $AB = 25$, $BC = 39$, and $AC=42$. Points $D$ and $E$ are on $AB$ and $AC$ respectively, with $AD = 19$ and $AE = 14$. What is the ratio of the area of triangle $ADE$ to the area of the quadrilateral $BCED$?', 'D']
+

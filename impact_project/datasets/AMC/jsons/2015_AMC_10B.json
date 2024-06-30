@@ -1,0 +1,152 @@
+[
+    {
+        "Index": 776,
+        "Setup": "What is the value of $2-(-2)^{-2}$?",
+        "Options": "$\\textbf{(A) } -2 \\qquad\\textbf{(B) } \\dfrac{1}{16} \\qquad\\textbf{(C) } \\dfrac{7}{4} \\qquad\\textbf{(D) } \\dfrac{9}{4} \\qquad\\textbf{(E) } 6$",
+        "Answer": "C"
+    },
+    {
+        "Index": 777,
+        "Setup": "Marie does three equally time-consuming tasks in a row without taking breaks. She begins the first task at 1:00 PM and finishes the second task at 2:40 PM. When does she finish the third task?",
+        "Options": "$\\textbf{(A) }\\text{3:10 PM}\\qquad\\textbf{(B) }\\text{3:30 PM}\\qquad\\textbf{(C) }\\text{4:00 PM}\\qquad\\textbf{(D) }\\text{4:10 PM}\\qquad\\textbf{(E) }\\text{4:30 PM}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 778,
+        "Setup": "Isaac has written down one integer two times and another integer three times. The sum of the five numbers is $100$, and one of the numbers is $28.$ What is the other number?",
+        "Options": "$\\textbf{(A) } 8 \\qquad\\textbf{(B) } 11 \\qquad\\textbf{(C) } 14 \\qquad\\textbf{(D) } 15 \\qquad\\textbf{(E) } 18$",
+        "Answer": "A"
+    },
+    {
+        "Index": 779,
+        "Setup": "Four siblings ordered an extra large pizza. Alex ate $\\frac15$, Beth $\\frac13$, and Cyril $\\frac14$ of the pizza. Dan got the leftovers. What is the sequence of the siblings in decreasing order of the part of pizza they consumed?",
+        "Options": "$\\textbf{(A) } \\text{Alex, Beth, Cyril, Dan}$\n$\\textbf{(B) } \\text{Beth, Cyril, Alex, Dan}$\n$\\textbf{(C) } \\text{Beth, Cyril, Dan, Alex}$\n$\\textbf{(D) } \\text{Beth, Dan, Cyril, Alex}$\n$\\textbf{(E) } \\text{Dan, Beth, Cyril, Alex}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 780,
+        "Setup": "David, Hikmet, Jack, Marta, Rand, and Todd were in a $12$-person race with $6$ other people. Rand finished $6$ places ahead of Hikmet. Marta finished $1$ place behind Jack. David finished $2$ places behind Hikmet. Jack finished $2$ places behind Todd. Todd finished $1$ place behind Rand. Marta finished in $6$th place. Who finished in $8$th place?",
+        "Options": "$\\textbf{(A) } \\text{David} \\qquad\\textbf{(B) } \\text{Hikmet} \\qquad\\textbf{(C) } \\text{Jack} \\qquad\\textbf{(D) } \\text{Rand} \\qquad\\textbf{(E) } \\text{Todd}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 781,
+        "Setup": "Marley practices exactly one sport each day of the week. She runs three days a week but never on two consecutive days. On Monday she plays basketball and two days later golf. She swims and plays tennis, but she never plays tennis the day after running or swimming. Which day of the week does Marley swim?",
+        "Options": "$\\textbf{(A) } \\text{Sunday} \\qquad\\textbf{(B) } \\text{Tuesday} \\qquad\\textbf{(C) } \\text{Thursday} \\qquad\\textbf{(D) } \\text{Friday} \\qquad\\textbf{(E) } \\text{Saturday}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 782,
+        "Setup": "Consider the operation \"minus the reciprocal of,\" defined by $a\\diamond b=a-\\frac{1}{b}$. What is $((1\\diamond2)\\diamond3)-(1\\diamond(2\\diamond3))$?",
+        "Options": "$\\textbf{(A) } -\\dfrac{7}{30} \\qquad\\textbf{(B) } -\\dfrac{1}{6} \\qquad\\textbf{(C) } 0 \\qquad\\textbf{(D) } \\dfrac{1}{6} \\qquad\\textbf{(E) } \\dfrac{7}{30}$",
+        "Answer": "A"
+    },
+    {
+        "Index": 783,
+        "Setup": "The letter F shown below is rotated $90^\\circ$ clockwise around the origin, then reflected in the $y$-axis, and then rotated a half turn around the origin. What is the final image?",
+        "Options": "[asy] import cse5;pathpen=black;pointpen=black; size(2cm); D((0,-2)--MP(\"y\",(0,7),N)); D((-3,0)--MP(\"x\",(5,0),E)); D((1,0)--(1,2)--(2,2)--(2,3)--(1,3)--(1,4)--(3,4)--(3,5)--(0,5)); [/asy]",
+        "Answer": "E"
+    },
+    {
+        "Index": 784,
+        "Setup": "The shaded region below is called a shark's fin falcata, a figure studied by Leonardo da Vinci. It is bounded by the portion of the circle of radius $3$ and center $(0,0)$ that lies in the first quadrant, the portion of the circle with radius $\\tfrac{3}{2}$ and center $(0,\\tfrac{3}{2})$ that lies in the first quadrant, and the line segment from $(0,0)$ to $(3,0)$. What is the area of the shark's fin falcata?",
+        "Options": "[asy]import cse5;pathpen=black;pointpen=black; size(1.5inch); D(MP(\"x\",(3.5,0),S)--(0,0)--MP(\"\\frac{3}{2}\",(0,3/2),W)--MP(\"y\",(0,3.5),W)); path P=(0,0)--MP(\"3\",(3,0),S)..(3*dir(45))..MP(\"3\",(0,3),W)--(0,3)..(3/2,3/2)..cycle; draw(P,linewidth(2)); fill(P,gray); [/asy]",
+        "Answer": "B"
+    },
+    {
+        "Index": 785,
+        "Setup": "What is the sign and units digit of the product of all the odd negative integers strictly greater than $-2015$?",
+        "Options": "$\\textbf{(A) } \\text{It is a negative number ending with a 1.}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 786,
+        "Setup": "Among the positive integers less than $100$, each of whose digits is a prime number, one is selected at random. What is the probability that the selected number is prime?",
+        "Options": "$\\textbf{(A) } \\dfrac{8}{99} \\qquad\\textbf{(B) } \\dfrac{2}{5} \\qquad\\textbf{(C) } \\dfrac{9}{20} \\qquad\\textbf{(D) } \\dfrac{1}{2} \\qquad\\textbf{(E) } \\dfrac{9}{16}$",
+        "Answer": "B"
+    },
+    {
+        "Index": 787,
+        "Setup": "For how many integers $x$ is the point $(x,-x)$ inside or on the circle of radius $10$ centered at $(5,5)$?",
+        "Options": "$\\textbf{(A) } 11 \\qquad\\textbf{(B) } 12 \\qquad\\textbf{(C) } 13 \\qquad\\textbf{(D) } 14 \\qquad\\textbf{(E) } 15$",
+        "Answer": "A"
+    },
+    {
+        "Index": 788,
+        "Setup": "The line $12x+5y=60$ forms a triangle with the coordinate axes. What is the sum of the lengths of the altitudes of this triangle?",
+        "Options": "$\\textbf{(A) } 20 \\qquad\\textbf{(B) } \\dfrac{360}{17} \\qquad\\textbf{(C) } \\dfrac{107}{5} \\qquad\\textbf{(D) } \\dfrac{43}{2} \\qquad\\textbf{(E) } \\dfrac{281}{13}$",
+        "Answer": "E"
+    },
+    {
+        "Index": 789,
+        "Setup": "Let $a$, $b$, and $c$ be three distinct one-digit numbers. What is the maximum value of the sum of the roots of the equation $(x-a)(x-b)+(x-b)(x-c)=0$?",
+        "Options": "$\\textbf{(A) } 15 \\qquad\\textbf{(B) } 15.5 \\qquad\\textbf{(C) } 16 \\qquad\\textbf{(D) } 16.5 \\qquad\\textbf{(E) } 17$",
+        "Answer": "D"
+    },
+    {
+        "Index": 790,
+        "Setup": "The town of Hamlet has $3$ people for each horse, $4$ sheep for each cow, and $3$ ducks for each person. Which of the following could not possibly be the total number of people, horses, sheep, cows, and ducks in Hamlet?",
+        "Options": "$\\textbf{(A) } 41 \\qquad\\textbf{(B) } 47 \\qquad\\textbf{(C) } 59 \\qquad\\textbf{(D) } 61 \\qquad\\textbf{(E) } 66$",
+        "Answer": "B"
+    },
+    {
+        "Index": 791,
+        "Setup": "Al, Bill, and Cal will each randomly be assigned a whole number from $1$ to $10$, inclusive, with no two of them getting the same number. What is the probability that Al's number will be a whole number multiple of Bill's and Bill's number will be a whole number multiple of Cal's?",
+        "Options": "$\\textbf{(A) } \\dfrac{9}{1000} \\qquad\\textbf{(B) } \\dfrac{1}{90} \\qquad\\textbf{(C) } \\dfrac{1}{80} \\qquad\\textbf{(D) } \\dfrac{1}{72} \\qquad\\textbf{(E) } \\dfrac{2}{121}$",
+        "Answer": "C"
+    },
+    {
+        "Index": 792,
+        "Setup": "When the centers of the faces of the right rectangular prism shown below are joined to create an octahedron, what is the volume of the octahedron?",
+        "Options": "[asy]import three; size(2inch); currentprojection=orthographic(4,2,2); draw((0,0,0)--(0,0,3),dashed); draw((0,0,0)--(0,4,0),dashed); draw((0,0,0)--(5,0,0),dashed); draw((5,4,3)--(5,0,3)--(5,0,0)--(5,4,0)--(0,4,0)--(0,4,3)--(0,0,3)--(5,0,3)); draw((0,4,3)--(5,4,3)--(5,4,0)); label(\"3\",(5,0,3)--(5,0,0),W); label(\"4\",(5,0,0)--(5,4,0),S); label(\"5\",(5,4,0)--(0,4,0),SE); [/asy]",
+        "Answer": "B"
+    },
+    {
+        "Index": 793,
+        "Setup": "Johann has $64$ fair coins. He flips all the coins. Any coin that lands on tails is tossed again. Coins that land on tails on the second toss are tossed a third time. What is the expected number of coins that are now heads?",
+        "Options": "$\\textbf{(A) } 32 \\qquad\\textbf{(B) } 40 \\qquad\\textbf{(C) } 48 \\qquad\\textbf{(D) } 56 \\qquad\\textbf{(E) } 64$",
+        "Answer": "D"
+    },
+    {
+        "Index": 794,
+        "Setup": "In $\\triangle{ABC}$, $\\angle{C} = 90^{\\circ}$ and $AB = 12$. Squares $ABXY$ and $ACWZ$ are constructed outside of the triangle. The points $X, Y, Z$, and $W$ lie on a circle. What is the perimeter of the triangle?",
+        "Options": "$\\textbf{(A)}\\ 12+9\\sqrt{3}\\qquad\\textbf{(B)}\\ 18+6\\sqrt{3}\\qquad\\textbf{(C)}\\ 12+12\\sqrt{2}\\qquad\\textbf{(D)}\\ 30\\qquad\\textbf{(E)}\\ 32$",
+        "Answer": "C"
+    },
+    {
+        "Index": 795,
+        "Setup": "Erin the ant starts at a given corner of a cube and crawls along exactly $7$ edges in such a way that she visits every corner exactly once and then finds that she is unable to return along an edge to her starting point. How many paths are there meeting these conditions?",
+        "Options": "$\\textbf{(A) }\\text{6}\\qquad\\textbf{(B) }\\text{9}\\qquad\\textbf{(C) }\\text{12}\\qquad\\textbf{(D) }\\text{18}\\qquad\\textbf{(E) }\\text{24}$",
+        "Answer": "A"
+    },
+    {
+        "Index": 796,
+        "Setup": "Cozy the Cat and Dash the Dog are going up a staircase with a certain number of steps. However, instead of walking up the steps one at a time, both Cozy and Dash jump. Cozy goes two steps up with each jump (though if necessary, he will just jump the last step). Dash goes five steps up with each jump (though if necessary, he will just jump the last steps if there are fewer than 5 steps left). Suppose Dash takes 19 fewer jumps than Cozy to reach the top of the staircase. Let $s$ denote the sum of all possible numbers of steps this staircase can have. What is the sum of the digits of $s$?",
+        "Options": "$\\textbf{(A) } 9 \\qquad\\textbf{(B) } 11 \\qquad\\textbf{(C) } 12 \\qquad\\textbf{(D) } 13 \\qquad\\textbf{(E) } 15$",
+        "Answer": "D"
+    },
+    {
+        "Index": 797,
+        "Setup": "In the figure shown below, $ABCDE$ is a regular pentagon and $AG=1$. What is $FG+JH+CD$?\n[asy]import cse5;pathpen=black;pointpen=black; size(2inch); pair A=dir(90), B=dir(18), C=dir(306), D=dir(234), E=dir(162); D(MP(\"A\",A,A)--MP(\"B\",B,B)--MP(\"C\",C,C)--MP(\"D\",D,D)--MP(\"E\",E,E)--cycle,linewidth(1.5)); D(A--C--E--B--D--cycle); pair F=IP(A--D,B--E), G=IP(B--E,C--A), H=IP(C--A,B--D), I=IP(D--B,E--C), J=IP(C--E,D--A); D(MP(\"F\",F,dir(126))--MP(\"I\",I,dir(270))--MP(\"G\",G,dir(54))--MP(\"J\",J,dir(198))--MP(\"H\",H,dir(342))--cycle); [/asy]",
+        "Options": "$\\textbf{(A) } 3 \\qquad\\textbf{(B) } 12-4\\sqrt5 \\qquad\\textbf{(C) } \\dfrac{5+2\\sqrt5}{3} \\qquad\\textbf{(D) } 1+\\sqrt5 \\qquad\\textbf{(E) } \\dfrac{11+11\\sqrt5}{10}$",
+        "Answer": "D"
+    },
+    {
+        "Index": 798,
+        "Setup": "Let $n$ be a positive integer greater than 4 such that the decimal representation of $n!$ ends in $k$ zeros and the decimal representation of $(2n)!$ ends in $3k$ zeros. Let $s$ denote the sum of the four least possible values of $n$. What is the sum of the digits of $s$?",
+        "Options": "$\\textbf{(A) }7\\qquad\\textbf{(B) }8\\qquad\\textbf{(C) }9\\qquad\\textbf{(D) }10\\qquad\\textbf{(E) }11$",
+        "Answer": "B"
+    },
+    {
+        "Index": 799,
+        "Setup": "Aaron the ant walks on the coordinate plane according to the following rules. He starts at the origin $p_0=(0,0)$ facing to the east and walks one unit, arriving at $p_1=(1,0)$. For $n=1,2,3,\\dots$, right after arriving at the point $p_n$, if Aaron can turn $90^\\circ$ left and walk one unit to an unvisited point $p_{n+1}$, he does that. Otherwise, he walks one unit straight ahead to reach $p_{n+1}$. Thus the sequence of points continues $p_2=(1,1), p_3=(0,1), p_4=(-1,1), p_5=(-1,0)$, and so on in a counterclockwise spiral pattern. What is $p_{2015}$?",
+        "Options": "$\\textbf{(A) } (-22,-13)\\qquad\\textbf{(B) } (-13,-22)\\qquad\\textbf{(C) } (-13,22)\\qquad\\textbf{(D) } (13,-22)\\qquad\\textbf{(E) } (22,-13)$",
+        "Answer": "D"
+    },
+    {
+        "Index": 800,
+        "Setup": "A rectangular box measures $a \\times b \\times c$, where $a,$ $b,$ and $c$ are integers and $1 \\leq a \\leq b \\leq c$. The volume and surface area of the box are numerically equal. How many ordered triples $(a,b,c)$ are possible?",
+        "Options": "$\\textbf{(A) }4\\qquad\\textbf{(B) }10\\qquad\\textbf{(C) }12\\qquad\\textbf{(D) }21\\qquad\\textbf{(E) }26$",
+        "Answer": "B"
+    }
+]
